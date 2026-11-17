@@ -1,0 +1,1212 @@
+name,state,district,category,budget_per_day,rating,latitude,longitude,description
+Mysore Palace,Karnataka,Mysuru,Heritage,1500.0,4.8,12.3052,76.6552,Historic royal palace famous for its architecture
+Coorg,Karnataka,Kodagu,Nature,2500.0,4.7,12.4244,75.7382,Beautiful hill station famous for coffee plantations
+Hampi,Karnataka,Vijayanagara,Heritage,1500.0,4.8,15.335,76.46,Ancient ruins and historical monuments
+Munnar,Kerala,Idukki,Nature,2500.0,4.8,10.0889,77.0595,Beautiful hill station with tea plantations
+Alleppey,Kerala,Alappuzha,Nature,3000.0,4.7,9.4981,76.3388,Famous for backwaters and houseboats
+Kovalam,Kerala,Thiruvananthapuram,Beach,2500.0,4.6,8.4004,76.9787,Popular beach destination
+Ooty,Tamil Nadu,Nilgiris,Nature,2500.0,4.7,11.4102,76.695,Popular hill station with beautiful landscapes
+Kodaikanal,Tamil Nadu,Dindigul,Nature,2200.0,4.6,10.2381,77.4892,Scenic hill station surrounded by forests
+Mahabalipuram,Tamil Nadu,Chengalpattu,Heritage,1800.0,4.6,12.6208,80.1945,Famous for ancient rock-cut monuments
+Tirupati,Andhra Pradesh,Tirupati,Spiritual,2000.0,4.8,13.6833,79.347,Famous pilgrimage destination
+Araku Valley,Andhra Pradesh,Alluri Sitharama Raju,Nature,2000.0,4.5,18.3273,82.8775,Beautiful valley surrounded by hills
+Charminar,Telangana,Hyderabad,Heritage,1200.0,4.6,17.3616,78.4747,Iconic historical monument in Hyderabad
+Goa Beaches,Goa,North Goa,Beach,3500.0,4.8,15.2993,73.9225,Famous coastal destination with beautiful beaches
+Lonavala,Maharashtra,Pune,Nature,2200.0,4.5,18.7546,73.4062,Popular hill station with waterfalls
+Gateway of India,Maharashtra,Mumbai,Heritage,1500.0,4.7,18.922,72.8347,Historic monument overlooking the Arabian Sea
+Statue of Unity,Gujarat,Narmada,Heritage,2500.0,4.7,21.838,73.7191,World-famous statue of Sardar Vallabhbhai Patel
+Rann of Kutch,Gujarat,Kutch,Nature,3000.0,4.6,23.7337,69.8597,Famous white salt desert
+Jaipur City Palace,Rajasthan,Jaipur,Heritage,2500.0,4.7,26.9258,75.8237,Royal palace showcasing Rajasthani architecture
+Udaipur,Rajasthan,Udaipur,Nature,3000.0,4.8,24.5854,73.7125,Beautiful city famous for lakes and palaces
+Jaisalmer Fort,Rajasthan,Jaisalmer,Heritage,2000.0,4.7,26.9124,70.912,Historic golden sandstone fort
+Manali,Himachal Pradesh,Kullu,Nature,3500.0,4.8,32.2432,77.1892,Popular Himalayan hill station
+Shimla,Himachal Pradesh,Shimla,Nature,3000.0,4.6,31.1048,77.1734,Famous mountain destination
+Dharamshala,Himachal Pradesh,Kangra,Nature,2500.0,4.6,32.219,76.3234,Beautiful mountain town surrounded by forests
+Rishikesh,Uttarakhand,Dehradun,Adventure,2500.0,4.7,30.0869,78.2676,Famous for river rafting and adventure activities
+Nainital,Uttarakhand,Nainital,Nature,2500.0,4.6,29.3803,79.4636,Scenic hill station with a beautiful lake
+Kedarnath,Uttarakhand,Rudraprayag,Spiritual,3500.0,4.8,30.7346,79.0669,Famous Himalayan pilgrimage destination
+Taj Mahal,Uttar Pradesh,Agra,Heritage,2000.0,4.9,27.1751,78.0421,World-famous white marble monument
+Varanasi,Uttar Pradesh,Varanasi,Spiritual,2000.0,4.8,25.3176,82.9739,Ancient spiritual city on the Ganges
+Khajuraho,Madhya Pradesh,Chhatarpur,Heritage,1800.0,4.7,24.8318,79.9199,Famous for its historical temple architecture
+Pachmarhi,Madhya Pradesh,Narmadapuram,Nature,2200.0,4.5,22.4674,78.4346,Beautiful hill station surrounded by forests
+Kaziranga National Park,Assam,Golaghat,Wildlife,3500.0,4.7,26.5775,93.1711,Famous wildlife sanctuary known for one-horned rhinoceroses
+Cherrapunji,Meghalaya,East Khasi Hills,Nature,2500.0,4.7,25.2702,91.7323,Famous for waterfalls and heavy rainfall
+Shillong,Meghalaya,East Khasi Hills,Nature,2500.0,4.6,25.5788,91.8933,Beautiful hill city with scenic landscapes
+Tawang,Arunachal Pradesh,Tawang,Adventure,3500.0,4.7,27.586,91.8594,Mountain destination famous for monasteries
+Gangtok,Sikkim,Gangtok,Nature,3000.0,4.7,27.3314,88.6138,Beautiful Himalayan destination
+Darjeeling,West Bengal,Darjeeling,Nature,2500.0,4.7,27.036,88.2627,Famous for tea gardens and mountain views
+Konark Sun Temple,Odisha,Puri,Heritage,1800.0,4.8,19.8876,86.0945,Historic temple famous for its stone architecture
+Puri Beach,Odisha,Puri,Beach,2000.0,4.5,19.7983,85.8249,Popular beach and pilgrimage destination
+Dal Lake,Jammu and Kashmir,Srinagar,Nature,3000.0,4.8,34.0837,74.7973,Beautiful lake famous for houseboats
+Pangong Lake,Ladakh,Leh,Nature,4500.0,4.8,33.7595,78.667,High-altitude lake famous for its blue waters
+Achalgarh Fort,Rajasthan,Abu Road,Other,,,24.616466,72.765752,Tourist destination in Abu Road. Category: attraction
+Mehtab Bagh,Madhya Pradesh,Agra,Nature,,,27.179722,78.041944,Tourist destination in Agra. Category: garden
+Darwaza-I-Rauza,Madhya Pradesh,Agra,Heritage,,,27.1715,78.0422,Tourist destination in Agra. Category: monument
+Tomb of I'Timād-Ud-Daulah,Madhya Pradesh,Agra,Heritage,,,27.192868,78.030995,Tourist destination in Agra. Category: monument
+Raja Ki Mandi Railway Station,Madhya Pradesh,Agra,Other,,,27.193811,77.996613,Tourist destination in Agra. Category: building
+Diwan-I-Am,Madhya Pradesh,Agra,Other,,,27.178978,78.02254,Tourist destination in Agra. Category: building
+Mina Mosque,Madhya Pradesh,Agra,Spiritual,,,27.17985,78.020913,Tourist destination in Agra. Category: mosque
+Agra Fort,Madhya Pradesh,Agra,Heritage,,,27.179583,78.021297,Tourist destination in Agra. Category: fortification
+Akbar'S Church,Madhya Pradesh,Agra,Spiritual,,,27.197342,78.010397,Tourist destination in Agra. Category: church
+Jahangiri Mahal,Madhya Pradesh,Agra,Heritage,,,27.177889,78.023,Tourist destination in Agra. Category: palace
+Agra Cantt Railway Station,Madhya Pradesh,Agra,Other,,,27.157992,77.990153,Tourist destination in Agra. Category: building
+Akbar'S Tomb,Madhya Pradesh,Agra,Heritage,,,27.22042,77.950398,Tourist destination in Agra. Category: monument
+Moti Masjid,Madhya Pradesh,Agra,Spiritual,,,27.18034,78.02169,Tourist destination in Agra. Category: mosque
+Agra Fort Railway Station,Madhya Pradesh,Agra,Other,,,27.183308,78.0191,Tourist destination in Agra. Category: building
+"Bateshwar, Uttar Pradesh",Madhya Pradesh,Agra,Other,,,26.93,78.54,Tourist destination in Agra. Category: village
+Chini Ka Rauza,Madhya Pradesh,Agra,Heritage,,,27.200849,78.034261,Tourist destination in Agra. Category: monument
+Idgah Railway Station,Madhya Pradesh,Agra,Other,,,27.17265,77.997807,Tourist destination in Agra. Category: building
+Jama Masjid,Madhya Pradesh,Agra,Spiritual,,,27.181944,78.016111,Tourist destination in Agra. Category: mosque
+Equestrian Statue,Madhya Pradesh,Agra,Heritage,,,27.163552,78.003826,Tourist destination in Agra. Category: statue
+Ram Bagh,Madhya Pradesh,Agra,Nature,,,27.205462,78.038454,Tourist destination in Agra. Category: park
+Sur Sadan,Madhya Pradesh,Agra,Other,,,27.203,78.006,Tourist destination in Agra. Category: attraction
+Tomb of Mariam-Uz-Zamani,Madhya Pradesh,Agra,Heritage,,,27.215302,77.942721,Tourist destination in Agra. Category: monument
+Amar Singh Gate,Madhya Pradesh,Agra,Heritage,,,27.176514,78.022089,Tourist destination in Agra. Category: monument
+Farah Bagh,Not specified,Ahilyanagar,Heritage,,,19.068279,74.752016,Tourist destination in Ahilyanagar. Category: palace
+Cavalry Tank Museum,Not specified,Ahilyanagar,Heritage,,,19.071873,74.749234,Tourist destination in Ahilyanagar. Category: museum
+Ahmednagar Fort,Not specified,Ahilyanagar,Heritage,,,19.095376,74.755492,Tourist destination in Ahilyanagar. Category: fortification
+Banawali,Not specified,Ahlisadar,Heritage,,,29.545556,75.2975,Tourist destination in Ahlisadar. Category: archaeological-site
+Atal Pedestrian Bridge,Not specified,Ahmedabad,Other,,,23.016449,72.575518,Tourist destination in Ahmedabad. Category: bridge
+Kalupur Swaminarayan Mandir,Not specified,Ahmedabad,Spiritual,,,23.03,72.591,Tourist destination in Ahmedabad. Category: temple
+Sabarmati Ashram,Not specified,Ahmedabad,Heritage,,,23.06,72.580833,Tourist destination in Ahmedabad. Category: museum
+Gujarat Vidyapith,Not specified,Ahmedabad,Other,,,23.04455,72.567375,Tourist destination in Ahmedabad. Category: university
+Sarkhej Roza,Not specified,Ahmedabad,Spiritual,,,22.992042,72.502996,Tourist destination in Ahmedabad. Category: mosque
+Bai Harir Stepwell,Not specified,Ahmedabad,Other,,,23.040696,72.605471,Tourist destination in Ahmedabad. Category: attraction
+Sanskar Kendra,Not specified,Ahmedabad,Heritage,,,23.013095,72.569404,Tourist destination in Ahmedabad. Category: museum
+Hazrat Pir Mohammad Shah Library,Not specified,Ahmedabad,Other,,,23.026275,72.586514,Tourist destination in Ahmedabad. Category: library
+Amdavad Ni Gufa,Not specified,Ahmedabad,Heritage,,,23.036232,72.549686,Tourist destination in Ahmedabad. Category: museum
+Gaekwad Haveli,Not specified,Ahmedabad,Other,,,23.011944,72.58,Tourist destination in Ahmedabad. Category: building
+Rani No Hajiro,Not specified,Ahmedabad,Heritage,,,23.023754,72.589276,Tourist destination in Ahmedabad. Category: monument
+Teen Darwaza,Not specified,Ahmedabad,Heritage,,,23.024349,72.584551,Tourist destination in Ahmedabad. Category: monument
+Mir Abu Turab'S Tomb,Not specified,Ahmedabad,Heritage,,,23.00464,72.576653,Tourist destination in Ahmedabad. Category: monument
+Sidi Saiyyed Mosque,Not specified,Ahmedabad,Spiritual,,,23.026843,72.581015,Tourist destination in Ahmedabad. Category: mosque
+Manek Chowk (Ahmedabad),Not specified,Ahmedabad,Other,,,23.02361,72.588562,Tourist destination in Ahmedabad. Category: square
+Hutheesing Jain Temple,Not specified,Ahmedabad,Spiritual,,,23.041088,72.589611,Tourist destination in Ahmedabad. Category: temple
+Panchkuwa Gate,Not specified,Ahmedabad,Heritage,,,23.025159,72.597204,Tourist destination in Ahmedabad. Category: monument
+Delhi Darwaja,Not specified,Ahmedabad,Heritage,,,23.037766,72.58796,Tourist destination in Ahmedabad. Category: monument
+Bhadra Fort,Not specified,Ahmedabad,Heritage,,,23.024235,72.581149,Tourist destination in Ahmedabad. Category: fortification
+Sardar Vallabhbhai Patel International Airport,Not specified,Ahmedabad,Other,,,23.077222,72.634722,Tourist destination in Ahmedabad. Category: building
+Amritavarshini Vav,Not specified,Ahmedabad,Other,,,23.024664,72.597106,Tourist destination in Ahmedabad. Category: attraction
+Calico Museum of Textiles,Not specified,Ahmedabad,Heritage,,,23.054616,72.592129,Tourist destination in Ahmedabad. Category: museum
+Gujarat Science City,Not specified,Ahmedabad,Heritage,,,23.080287,72.49567,Tourist destination in Ahmedabad. Category: museum
+Kochrab Ashram,Not specified,Ahmedabad,Other,,,23.015683,72.566754,Tourist destination in Ahmedabad. Category: building
+Lalbhai Dalpatbhai Museum,Not specified,Ahmedabad,Heritage,,,23.2,72.33,Tourist destination in Ahmedabad. Category: museum
+Law Garden,Not specified,Ahmedabad,Nature,,,23.026389,72.560833,Tourist destination in Ahmedabad. Category: park
+Prem Darwaja,Not specified,Ahmedabad,Heritage,,,23.035003,72.596888,Tourist destination in Ahmedabad. Category: monument
+Bibiji'S Masjid,Not specified,Ahmedabad,Spiritual,,,23.014349,72.614109,Tourist destination in Ahmedabad. Category: mosque
+Magen Abraham Synagogue,Not specified,Ahmedabad,Other,,,23.022028,72.583874,Tourist destination in Ahmedabad. Category: synagogue
+Sardar Vallabhbhai Patel National Memorial,Not specified,Ahmedabad,Heritage,,,23.061313,72.591197,Tourist destination in Ahmedabad. Category: museum
+"Sardar Vallabhbhai Patel Stadium, Ahmedabad",Not specified,Ahmedabad,Adventure,,,23.042181,72.564381,Tourist destination in Ahmedabad. Category: stadium
+Swaminarayan Museum,Not specified,Ahmedabad,Heritage,,,23.055,72.55,Tourist destination in Ahmedabad. Category: museum
+Mizoram State Museum,Not specified,Aizawl,Heritage,,,23.7381,92.7156,Tourist destination in Aizawl. Category: museum
+Rajiv Gandhi Stadium Mualpui,Not specified,Aizawl,Adventure,,,23.714281,92.735391,Tourist destination in Aizawl. Category: stadium
+Taragarh Fort,Rajasthan,Ajmer,Heritage,,,26.442222,74.618333,Tourist destination in Ajmer. Category: fortification
+Ajmer,Rajasthan,Ajmer,Other,,,26.470174,74.630946,Tourist destination in Ajmer. Category: town
+Ajmer Jain Temple,Rajasthan,Ajmer,Spiritual,,,26.45,74.64,Tourist destination in Ajmer. Category: temple
+Ana Sagar Lake,Rajasthan,Ajmer,Nature,,,26.473921,74.628373,Tourist destination in Ajmer. Category: lake
+Ana Sagar Baradari,Rajasthan,Ajmer,Other,,,26.46986,74.630598,Tourist destination in Ajmer. Category: attraction
+Palakkad Fort,Not specified,Alathur,Heritage,,,10.763655,76.656812,Tourist destination in Alathur. Category: fortification
+Alipurduar,Meghalaya,Alipurduar,Other,,,26.4931,89.532015,Tourist destination in Alipurduar. Category: locality
+Buxa Forest (Raja Bhatkhawa),Meghalaya,Alipurduar,Other,,,26.591979,89.526042,Tourist destination in Alipurduar. Category: village
+Alwar Fort,Madhya Pradesh,Alwar,Heritage,,,27.574445,76.587778,Tourist destination in Alwar. Category: fortification
+Alwar,Madhya Pradesh,Alwar,Other,,,27.567416,76.604918,Tourist destination in Alwar. Category: town
+Vijayawada (Urban) Mandal,Andhra Pradesh,Amaravathi,Other,,,16.501417,80.634129,Tourist destination in Amaravathi. Category: attraction
+Kondapalli Fort,Andhra Pradesh,Amaravathi,Heritage,,,16.625426,80.530649,Tourist destination in Amaravathi. Category: fortification
+Jallianwala Bagh,Punjab,Amritsar,Heritage,,,31.6205,74.8806,Tourist destination in Amritsar. Category: monument
+Akal Takht,Punjab,Amritsar,Spiritual,,,31.620611,74.875333,Tourist destination in Amritsar. Category: temple
+Harmandir Sahib,Punjab,Amritsar,Spiritual,,,31.619979,74.876528,Tourist destination in Amritsar. Category: temple
+Gobindgarh Fort,Punjab,Amritsar,Nature,,,31.627112,74.860408,Tourist destination in Amritsar. Category: amusement-park
+Gurdwara Baba Gurbaksh Singh Ji Shaheed,Punjab,Amritsar,Spiritual,,,31.620708,74.87512,Tourist destination in Amritsar. Category: temple
+Gurdwara Baba Atal,Punjab,Amritsar,Spiritual,,,31.617305,74.877111,Tourist destination in Amritsar. Category: temple
+Anand Rural Taluka,Not specified,Anand,Other,,,22.550272,72.971382,Tourist destination in Anand. Category: attraction
+Begunia Temple Complex,Jharkhand,Asansol,Spiritual,,,23.73564,86.813072,Tourist destination in Asansol. Category: temple
+Manas National Park,Assam,Assam,Nature,,,26.716667,90.933333,Tourist destination in Assam. Category: park
+Dehing Patkai National Park,Arunachal Pradesh,Assam,Nature,,,27.331,95.526,Tourist destination in Assam. Category: park
+Sambhajinagar Caves,Not specified,Aurangabad,Nature,,,19.91724,75.311897,Tourist destination in Aurangabad. Category: cave
+Chand Minar,Maharashtra,Aurangabad,Heritage,,,19.944418,75.217428,Tourist destination in Aurangabad. Category: tower
+Soneri Mahal,Not specified,Aurangabad,Other,,,19.906702,75.309966,Tourist destination in Aurangabad. Category: building
+Makai Gate,Not specified,Aurangabad,Heritage,,,19.894032,75.318489,Tourist destination in Aurangabad. Category: monument
+Hanuman Garhi Temple,Not specified,Ayodhya,Spiritual,,,26.795556,82.201643,Tourist destination in Ayodhya. Category: temple
+Banashankari Amma Temple,Karnataka,Badami,Spiritual,,,15.887266,75.704442,Tourist destination in Badami. Category: temple
+Badami Cave Temples,Karnataka,Badami,Spiritual,,,15.918333,75.685,Tourist destination in Badami. Category: temple
+Dhanyakuria,West Bengal,Baduria,Other,,,22.69999,88.757818,Tourist destination in Baduria. Category: village
+Chandraketugarh,West Bengal,Baduria,Heritage,,,22.697579,88.68835,Tourist destination in Baduria. Category: archaeological-site
+Kanha National Park,Not specified,Baihar,Nature,,,22.2275,80.645,Tourist destination in Baihar. Category: park
+Kollur Mookambika Temple,Kerala,Baindur,Spiritual,,,13.863778,74.814611,Tourist destination in Baindur. Category: temple
+Jhelum River,Not specified,Baramulla,Other,,,34.207756,74.350325,Tourist destination in Baramulla. Category: attraction
+Haripur Gada,West Bengal,Baripada,Heritage,,,21.80362,86.715607,Tourist destination in Baripada. Category: archaeological-site
+Basavakalyana Fort,Karnataka,Basavakalyan,Heritage,,,17.884375,76.948642,Tourist destination in Basavakalyan. Category: fortification
+Aam Khas Bagh,Haryana,Bassi Pathana,Other,,,30.637518,76.397443,Tourist destination in Bassi Pathana. Category: restaurant
+Bavla,Not specified,Bavla,Other,,,22.819686,72.352729,Tourist destination in Bavla. Category: locality
+Kupgal Petroglyphs,Andhra Pradesh,Bellary,Heritage,,,15.181389,76.968611,Tourist destination in Bellary. Category: archaeological-site
+Manjusha Museum,Kerala,Belthangady,Heritage,,,12.95117,75.382134,Tourist destination in Belthangady. Category: museum
+Hoysaleswara Temple,Kerala,Belur,Spiritual,,,13.212448,75.994257,Tourist destination in Belur. Category: temple
+Chennakesava Temple,Kerala,Belur,Spiritual,,,13.162468,75.860376,Tourist destination in Belur. Category: temple
+Attara Kacheri,Tamil Nadu,Bengaluru,Other,,,12.978055,77.5925,Tourist destination in Bengaluru. Category: building
+"Jawaharlal Nehru Planetarium, Bengaluru",Tamil Nadu,Bengaluru,Other,,,12.984733,77.589789,Tourist destination in Bengaluru. Category: building
+Shree Dwadasha Jyotirlinga Shiva Temple,Tamil Nadu,Bengaluru,Spiritual,,,12.899682,77.505544,Tourist destination in Bengaluru. Category: temple
+M. Chinnaswamy Stadium,Tamil Nadu,Bengaluru,Adventure,,,12.978806,77.599556,Tourist destination in Bengaluru. Category: stadium
+"St. Mark'S Cathedral, Bangalore",Tamil Nadu,Bengaluru,Other,,,12.9757,77.6041,Tourist destination in Bengaluru. Category: cathedral
+Turahalli Forest,Tamil Nadu,Bengaluru,Other,,,12.883171,77.52503,Tourist destination in Bengaluru. Category: attraction
+Lal Bagh,Tamil Nadu,Bengaluru,Nature,,,12.95,77.59,Tourist destination in Bengaluru. Category: botanical-garden
+Dharmaraya Swamy Temple,Tamil Nadu,Bengaluru,Spiritual,,,12.965444,77.583389,Tourist destination in Bengaluru. Category: temple
+Bengaluru Football Stadium,Tamil Nadu,Bengaluru,Adventure,,,12.968866,77.611585,Tourist destination in Bengaluru. Category: stadium
+"Iskcon Temple, Bengaluru",Tamil Nadu,Bengaluru,Spiritual,,,13.009444,77.550833,Tourist destination in Bengaluru. Category: temple
+Bangalore Town Hall,Tamil Nadu,Bengaluru,Other,,,12.963751,77.585794,Tourist destination in Bengaluru. Category: building
+Daly Memorial Hall,Tamil Nadu,Bengaluru,Heritage,,,12.972546,77.586255,Tourist destination in Bengaluru. Category: memorial
+"Freedom Park, Bangalore",Tamil Nadu,Bengaluru,Nature,,,12.977916,77.582188,Tourist destination in Bengaluru. Category: park
+Gavi Gangadhareshwara Temple,Tamil Nadu,Bengaluru,Spiritual,,,12.948205,77.562992,Tourist destination in Bengaluru. Category: temple
+Ghati Subramanya,Tamil Nadu,Bengaluru,Spiritual,,,13.292,77.543,Tourist destination in Bengaluru. Category: temple
+"Halasuru Someshwara Temple, Bangalore",Tamil Nadu,Bengaluru,Spiritual,,,12.975503,77.623892,Tourist destination in Bengaluru. Category: temple
+Kanteerava Indoor Stadium,Tamil Nadu,Bengaluru,Adventure,,,12.968819,77.591308,Tourist destination in Bengaluru. Category: stadium
+Karnataka Chitrakala Parishath,Tamil Nadu,Bengaluru,Heritage,,,12.989044,77.58068,Tourist destination in Bengaluru. Category: museum
+Kempegowda Museum,Tamil Nadu,Bengaluru,Heritage,,,12.974092,77.610754,Tourist destination in Bengaluru. Category: museum
+Chikkabettahalli Inscription,Tamil Nadu,Bengaluru,Heritage,,,13.092396,77.553344,Tourist destination in Bengaluru. Category: statue
+"Public Utility Building, Bangalore",Tamil Nadu,Bengaluru,Other,,,12.974147,77.609708,Tourist destination in Bengaluru. Category: building
+Puttenahalli Lake,Tamil Nadu,Bengaluru,Nature,,,12.890414,77.58719,Tourist destination in Bengaluru. Category: lake
+Ragigudda Anjaneya Temple,Tamil Nadu,Bengaluru,Spiritual,,,12.91424,77.5932,Tourist destination in Bengaluru. Category: temple
+Raj Bhavan,Tamil Nadu,Bengaluru,Other,,,12.982257,77.59136,Tourist destination in Bengaluru. Category: building
+"Ranganathaswamy Temple, Bangalore",Tamil Nadu,Bengaluru,Spiritual,,,12.970261,77.579325,Tourist destination in Bengaluru. Category: temple
+Sree Kanteerava Stadium,Tamil Nadu,Bengaluru,Adventure,,,12.969556,77.593469,Tourist destination in Bengaluru. Category: stadium
+"St. Mary'S Basilica, Bangalore",Tamil Nadu,Bengaluru,Spiritual,,,12.984417,77.60425,Tourist destination in Bengaluru. Category: church
+"World Trade Center, Bengaluru",Tamil Nadu,Bengaluru,Other,,,13.0123,77.5562,Tourist destination in Bengaluru. Category: building
+Hulimavu Cave Temple,Tamil Nadu,Bengalúru,Spiritual,,,12.877009,77.59967,Tourist destination in Bengalúru. Category: temple
+Cubbon Park,Tamil Nadu,Bengalúru,Nature,,,12.975,77.593333,Tourist destination in Bengalúru. Category: park
+Mysore Lancers Memorial,Tamil Nadu,Bengalúru,Heritage,,,13.012093,77.593834,Tourist destination in Bengalúru. Category: monument
+Statue of Mahatma Gandhi,Tamil Nadu,Bengalúru,Heritage,,,12.978974,77.589573,Tourist destination in Bengalúru. Category: statue
+Ambedkar Statue,Tamil Nadu,Bengalúru,Heritage,,,12.979568,77.592094,Tourist destination in Bengalúru. Category: statue
+"The Glass House, Lal Bagh Botanical Gardens",Tamil Nadu,Bengalúru,Nature,,,12.949416,77.58468,Tourist destination in Bengalúru. Category: garden
+World War I Sapper Memorial,Tamil Nadu,Bengalúru,Heritage,,,12.97165,77.606858,Tourist destination in Bengalúru. Category: monument
+Ferdinand Kittel Statue,Tamil Nadu,Bengalúru,Heritage,,,12.974102,77.611555,Tourist destination in Bengalúru. Category: statue
+K Seshadri Iyer Statue,Tamil Nadu,Bengalúru,Heritage,,,12.973524,77.590361,Tourist destination in Bengalúru. Category: statue
+Ravindra Kalakshetra,Tamil Nadu,Bengalúru,Other,,,12.962252,77.585135,Tourist destination in Bengalúru. Category: theatre
+Jai Valley,Punjab,Bhaderwah,Other,,,33.024172,75.773357,Tourist destination in Bhaderwah. Category: attraction
+Bhadbhut Barrage,Not specified,Bharuch,Other,,,21.657346,72.793916,Tourist destination in Bharuch. Category: attraction
+Rabindra Mandap,Not specified,Bhubaneswar,Other,,,20.273458,85.833091,Tourist destination in Bhubaneswar. Category: building
+Kapilesvara Siva Temple,Not specified,Bhubaneswar,Spiritual,,,20.22909,85.827438,Tourist destination in Bhubaneswar. Category: temple
+Megheswara Temple,Not specified,Bhubaneswar,Spiritual,,,20.243322,85.853736,Tourist destination in Bhubaneswar. Category: temple
+Lingaraja Temple,Not specified,Bhubaneswar,Spiritual,,,20.238369,85.833719,Tourist destination in Bhubaneswar. Category: temple
+Megheswar Temple,Not specified,Bhubaneswar,Spiritual,,,20.243317,85.856257,Tourist destination in Bhubaneswar. Category: temple
+Shikhar Chandi,Not specified,Bhubaneswar,Spiritual,,,20.357017,85.80441,Tourist destination in Bhubaneswar. Category: temple
+Ananta Vasudeva Temple,Not specified,Bhubaneswar,Spiritual,,,20.240606,85.835781,Tourist destination in Bhubaneswar. Category: temple
+Pathani Samanta Planetarium,Not specified,Bhubaneswar,Other,,,20.298122,85.832242,Tourist destination in Bhubaneswar. Category: building
+Yameshwar Temple,Not specified,Bhubaneswar,Spiritual,,,20.2404,85.8315,Tourist destination in Bhubaneswar. Category: temple
+Udayagiri and Khandagiri Caves,Not specified,Bhubaneswar,Spiritual,,,20.262543,85.784659,Tourist destination in Bhubaneswar. Category: temple
+Muktesvara Deula,Not specified,Bhubaneswar,Spiritual,,,20.242687,85.840503,Tourist destination in Bhubaneswar. Category: temple
+Aisanyesvara Siva Temple,Not specified,Bhubaneswar,Spiritual,,,20.233333,85.816667,Tourist destination in Bhubaneswar. Category: temple
+Akhadachandi Temple,Not specified,Bhubaneswar,Spiritual,,,20.240833,85.833667,Tourist destination in Bhubaneswar. Category: temple
+Astasambhu Siva Temples,Not specified,Bhubaneswar,Spiritual,,,20.250556,85.855,Tourist destination in Bhubaneswar. Category: temple
+Baitala Deula,Not specified,Bhubaneswar,Spiritual,,,20.242429,85.832323,Tourist destination in Bhubaneswar. Category: temple
+Bharati Matha Temple,Not specified,Bhubaneswar,Spiritual,,,20.240475,85.832355,Tourist destination in Bhubaneswar. Category: temple
+Bhringesvara Siva Temple,Odisha,Bhubaneswar,Spiritual,,,22.199167,85.837778,Tourist destination in Bhubaneswar. Category: temple
+"Brahma Temple, Bindusagar",Not specified,Bhubaneswar,Spiritual,,,20.245555,85.837222,Tourist destination in Bhubaneswar. Category: temple
+Brahmeswara Temple,Not specified,Bhubaneswar,Spiritual,,,20.239496,85.851739,Tourist destination in Bhubaneswar. Category: temple
+Ram Mandir,Not specified,Bhubaneswar,Spiritual,,,20.271287,85.783753,Tourist destination in Bhubaneswar. Category: temple
+Byamokesvara Temple,Not specified,Bhubaneswar,Spiritual,,,20.238099,85.834673,Tourist destination in Bhubaneswar. Category: temple
+Champakesvara Siva Temple,Not specified,Bhubaneswar,Spiritual,,,20.246667,85.857778,Tourist destination in Bhubaneswar. Category: temple
+Chandrasekhara Mahadeva Temple,Not specified,Bhubaneswar,Spiritual,,,20.349722,85.835278,Tourist destination in Bhubaneswar. Category: temple
+Chintamanisvara Siva Temple,Not specified,Bhubaneswar,Spiritual,,,20.25,85.838889,Tourist destination in Bhubaneswar. Category: temple
+Devasabha Temple,Not specified,Bhubaneswar,Spiritual,,,20.2375,85.835278,Tourist destination in Bhubaneswar. Category: temple
+Dishisvara Siva Temple,Not specified,Bhubaneswar,Spiritual,,,20.1464,85.5029,Tourist destination in Bhubaneswar. Category: temple
+Emara Matha,Not specified,Bhubaneswar,Spiritual,,,20.251667,85.8375,Tourist destination in Bhubaneswar. Category: temple
+Gangesvara Siva Temple,Not specified,Bhubaneswar,Spiritual,,,20.2425,85.854722,Tourist destination in Bhubaneswar. Category: temple
+Chitrakarini Temple,Not specified,Bhubaneswar,Spiritual,,,20.23933,85.833503,Tourist destination in Bhubaneswar. Category: temple
+Jaleswar Siva Temple Precinct,Not specified,Bhubaneswar,Spiritual,,,20.361111,85.852778,Tourist destination in Bhubaneswar. Category: temple
+Labesvara Siva Temple,Not specified,Bhubaneswar,Spiritual,,,20.256111,85.838333,Tourist destination in Bhubaneswar. Category: temple
+Ladu Baba Temple,Not specified,Bhubaneswar,Spiritual,,,20.244167,85.833889,Tourist destination in Bhubaneswar. Category: temple
+Nageshwar Temple,Not specified,Bhubaneswar,Spiritual,,,20.246389,85.856667,Tourist destination in Bhubaneswar. Category: temple
+Nakulesvara Siva Temple,Not specified,Bhubaneswar,Spiritual,,,20.2337,85.8191,Tourist destination in Bhubaneswar. Category: temple
+Pabaneswara Temple,Not specified,Bhubaneswar,Spiritual,,,20.249722,85.842778,Tourist destination in Bhubaneswar. Category: temple
+Parsurameswara Temple,Not specified,Bhubaneswar,Spiritual,,,20.233333,85.85,Tourist destination in Bhubaneswar. Category: temple
+Sarvatresvara Siva Temple,Not specified,Bhubaneswar,Spiritual,,,20.243055,85.856667,Tourist destination in Bhubaneswar. Category: temple
+"Sivatirtha Matha, Old Town",Not specified,Bhubaneswar,Spiritual,,,20.2408,85.8367,Tourist destination in Bhubaneswar. Category: temple
+Svapnesvara Siva Temple,Not specified,Bhubaneswar,Spiritual,,,20.2408,85.8442,Tourist destination in Bhubaneswar. Category: temple
+Talesvara Siva Temple,Not specified,Bhubaneswar,Spiritual,,,20.2506,85.8414,Tourist destination in Bhubaneswar. Category: temple
+Uttaresvara Siva Temple,Not specified,Bhubaneswar,Spiritual,,,20.2506,85.855,Tourist destination in Bhubaneswar. Category: temple
+"Vishnu Temple, Bhubaneswar",Not specified,Bhubaneswar,Spiritual,,,20.26025,85.838469,Tourist destination in Bhubaneswar. Category: temple
+Ekamra Kanan,Not specified,Bhubaneswar,Nature,,,20.303959,85.805753,Tourist destination in Bhubaneswar. Category: botanical-garden
+Prag Mahal,Not specified,Bhuj,Heritage,,,23.254801,69.668414,Tourist destination in Bhuj. Category: palace
+Samatra Tv Tower,Not specified,Bhuj,Heritage,,,23.191859,69.476877,Tourist destination in Bhuj. Category: tower
+"Shri Swaminarayan Mandir, Bhuj",Not specified,Bhuj,Spiritual,,,23.246111,69.664444,Tourist destination in Bhuj. Category: temple
+"Swaminarayan Mandir, Bhuj",Not specified,Bhuj,Spiritual,,,23.24635,69.664324,Tourist destination in Bhuj. Category: temple
+Tomb of Malik Ibrahim Bayu,Bihar,Bihar,Heritage,,,25.205317,85.504074,Tourist destination in Bihar. Category: monument
+Ara–Chhapra Bridge,Bihar,Bihar,Other,,,25.72794,84.814422,Tourist destination in Bihar. Category: bridge
+Jal Mandir,Jharkhand,Bihar,Spiritual,,,25.09143,85.538979,Tourist destination in Bihar. Category: temple
+Sher Shah Suri Masjid,Bihar,Bihar,Spiritual,,,25.611,85.144,Tourist destination in Bihar. Category: mosque
+Mecca Masjid,Karnataka,Bijapur Taluk,Spiritual,,,16.8252,75.72,Tourist destination in Bijapur Taluk. Category: mosque
+Bara Kaman,Karnataka,Bijapur Taluk,Heritage,,,16.830315,75.718271,Tourist destination in Bijapur Taluk. Category: monument
+Lalgarh Palace,Rajasthan,Bikaner,Other,,,28.041064,73.331686,Tourist destination in Bikaner. Category: building
+Junagarh Fort,Rajasthan,Bikaner,Heritage,,,28.02201,73.31772,Tourist destination in Bikaner. Category: fortification
+Trilochaneswar Temple,Not specified,Binjharpur,Spiritual,,,20.829096,86.339747,Tourist destination in Binjharpur. Category: temple
+Sarala Temple,Not specified,Binjharpur,Spiritual,,,20.701194,86.417578,Tourist destination in Binjharpur. Category: temple
+Numaligarh Refinery,Assam,Bokakhat,Other,,,26.582699,93.786831,Tourist destination in Bokakhat. Category: building
+Mahuri Kalua,Chhattisgarh,Brahmapur,Spiritual,,,19.343795,84.676584,Tourist destination in Brahmapur. Category: temple
+Khanqah-E-Moula,Jammu and Kashmir,Budgam,Spiritual,,,34.091401,74.807802,Tourist destination in Budgam. Category: mosque
+Ramnabagan Wildlife Sanctuary,West Bengal,Burdwan Ii Community Development Block,Other,,,23.252915,87.850753,Tourist destination in Burdwan Ii Community Development Block. Category: attraction
+Nawab Bari,West Bengal,Burdwan Ii Community Development Block,Heritage,,,23.22514,87.853972,Tourist destination in Burdwan Ii Community Development Block. Category: monument
+Palolem Beach,Goa,Canacona,Nature,,,15.008889,74.022778,Tourist destination in Canacona. Category: beach
+Galgibaga Beach,Goa,Canacona,Nature,,,14.964532,74.047502,Tourist destination in Canacona. Category: beach
+Cabo de Rama,Goa,Canacona,Heritage,,,15.089368,73.923212,Tourist destination in Canacona. Category: fortification
+Dhanas Lake,Haryana,Chandigarh,Nature,,,30.765922,76.756955,Tourist destination in Chandigarh. Category: lake
+Punjab and Haryana High Court,Haryana,Chandigarh,Other,,,30.7573,76.8066,Tourist destination in Chandigarh. Category: building
+Open Hand Monument,Haryana,Chandigarh,Heritage,,,30.759,76.8074,Tourist destination in Chandigarh. Category: monument
+Chandigarh Capitol Complex,Haryana,Chandigarh,Other,,,30.759167,76.804722,Tourist destination in Chandigarh. Category: attraction
+Rock Garden of Chandigarh,Haryana,Chandigarh,Heritage,,,30.752,76.807,Tourist destination in Chandigarh. Category: museum
+Garden of Silence,Haryana,Chandigarh,Nature,,,30.738434,76.830117,Tourist destination in Chandigarh. Category: garden
+Palace of Assembly,Haryana,Chandigarh,Other,,,30.761111,76.803055,Tourist destination in Chandigarh. Category: building
+Secretariat Building,Haryana,Chandigarh,Other,,,30.761111,76.800556,Tourist destination in Chandigarh. Category: building
+Zakir Hussain Rose Garden,Haryana,Chandigarh,Nature,,,30.748108,76.783739,Tourist destination in Chandigarh. Category: botanical-garden
+Pathanpura Gate,Telangana,Chandrapur,Heritage,,,19.935205,79.296164,Tourist destination in Chandrapur. Category: monument
+Lalpeth Monoliths Consisting of the Sixteen Colosal Stone Images.,Telangana,Chandrapur,Other,,,19.930449,79.305607,Tourist destination in Chandrapur. Category: attraction
+Aranmula Parthasarathy Temple,Not specified,Chengannur,Spiritual,,,9.328163,76.687829,Tourist destination in Chengannur. Category: temple
+Thiruvanvandoor Mahavishnu Temple,Not specified,Chengannur,Spiritual,,,9.34306,76.5797,Tourist destination in Chengannur. Category: temple
+Kannagi Statue,Andhra Pradesh,Chennai,Heritage,,,13.057541,80.282171,Tourist destination in Chennai. Category: statue
+Tamil Nadu Police Museum,Andhra Pradesh,Chennai,Heritage,,,13.074123,80.262614,Tourist destination in Chennai. Category: museum
+Chennai Lighthouses,Andhra Pradesh,Chennai,Other,,,13.0396,80.2795,Tourist destination in Chennai. Category: lighthouse
+M. A. Chidambaram Stadium,Andhra Pradesh,Chennai,Adventure,,,13.062778,80.279444,Tourist destination in Chennai. Category: stadium
+Semmozhi Poonga,Andhra Pradesh,Chennai,Nature,,,13.050537,80.251413,Tourist destination in Chennai. Category: park
+University of Madras,Andhra Pradesh,Chennai,Other,,,13.064794,80.282148,Tourist destination in Chennai. Category: university
+Fort St. George,Andhra Pradesh,Chennai,Heritage,,,13.080677,80.287606,Tourist destination in Chennai. Category: fortification
+Vadapalani Andavar Temple,Tamil Nadu,Chennai,Spiritual,,,13.052841,80.213571,Tourist destination in Chennai. Category: temple
+"St. Andrew'S Church, Chennai",Andhra Pradesh,Chennai,Spiritual,,,13.0798,80.2637,Tourist destination in Chennai. Category: church
+St. George'S Cathedral,Andhra Pradesh,Chennai,Other,,,13.052138,80.252898,Tourist destination in Chennai. Category: cathedral
+Triplicane Big Mosque,Andhra Pradesh,Chennai,Spiritual,,,13.06,80.27,Tourist destination in Chennai. Category: mosque
+Valluvar Kottam,Andhra Pradesh,Chennai,Other,,,13.054444,80.241667,Tourist destination in Chennai. Category: attraction
+Chennai Central Railway Station,Andhra Pradesh,Chennai,Other,,,13.084761,80.274856,Tourist destination in Chennai. Category: building
+Edward Elliot'S Beach,Tamil Nadu,Chennai,Nature,,,12.99922,80.272869,Tourist destination in Chennai. Category: beach
+World Trade Center Chennai,Tamil Nadu,Chennai,Other,,,12.961667,80.245278,Tourist destination in Chennai. Category: building
+George Town,Andhra Pradesh,Chennai,Other,,,13.092092,80.282243,Tourist destination in Chennai. Category: neighbourhood
+Vivekanandar Illam,Andhra Pradesh,Chennai,Heritage,,,13.049484,80.280325,Tourist destination in Chennai. Category: museum
+Ripon Building,Andhra Pradesh,Chennai,Other,,,13.0817,80.2716,Tourist destination in Chennai. Category: building
+Parthasarathy Temple,Andhra Pradesh,Chennai,Spiritual,,,13.05395,80.27675,Tourist destination in Chennai. Category: temple
+Sdat Tennis Stadium,Andhra Pradesh,Chennai,Adventure,,,13.05623,80.23851,Tourist destination in Chennai. Category: stadium
+Thousand Lights Mosque,Andhra Pradesh,Chennai,Spiritual,,,13.055,80.255,Tourist destination in Chennai. Category: mosque
+"Government Museum, Chennai",Andhra Pradesh,Chennai,Heritage,,,13.071281,80.257043,Tourist destination in Chennai. Category: museum
+"St. Mary'S Church, Chennai",Andhra Pradesh,Chennai,Spiritual,,,13.0787,80.2866,Tourist destination in Chennai. Category: church
+"Armenian Church, Chennai",Andhra Pradesh,Chennai,Spiritual,,,13.089191,80.287319,Tourist destination in Chennai. Category: church
+Amir Mahal,Andhra Pradesh,Chennai,Other,,,13.056396,80.268557,Tourist destination in Chennai. Category: building
+Anna Centenary Library,Tamil Nadu,Chennai,Other,,,13.0175,80.2391,Tourist destination in Chennai. Category: library
+Anna Memorial,Andhra Pradesh,Chennai,Heritage,,,13.065471,80.285585,Tourist destination in Chennai. Category: memorial
+Ashtalakshmi Kovil,Tamil Nadu,Chennai,Spiritual,,,12.992604,80.27039,Tourist destination in Chennai. Category: temple
+Bahram Jung Mosque,Andhra Pradesh,Chennai,Spiritual,,,13.062732,80.264363,Tourist destination in Chennai. Category: mosque
+Bharat Insurance Building,Andhra Pradesh,Chennai,Other,,,13.065012,80.267126,Tourist destination in Chennai. Category: building
+Birla Planetarium,Tamil Nadu,Chennai,Heritage,,,13.012005,80.243994,Tourist destination in Chennai. Category: museum
+Madras High Court,Andhra Pradesh,Chennai,Other,,,13.086097,80.286593,Tourist destination in Chennai. Category: attraction
+Casa Verona'S Mosque,Not specified,Chennai,Spiritual,,,0.0,0.0,Tourist destination in Chennai. Category: mosque
+Chennai Port Trust Centenary Building,Andhra Pradesh,Chennai,Other,,,13.083889,80.289722,Tourist destination in Chennai. Category: building
+Chepauk Palace,Andhra Pradesh,Chennai,Other,,,13.063363,80.281713,Tourist destination in Chennai. Category: building
+"Church of Our Lady of Light, Chennai",Tamil Nadu,Chennai,Spiritual,,,13.033333,80.25,Tourist destination in Chennai. Category: church
+Dash N Splash,Tamil Nadu,Chennai,Nature,,,13.027691,80.010831,Tourist destination in Chennai. Category: amusement-park
+Dharma Kidangu Mosque,Andhra Pradesh,Chennai,Spiritual,,,13.095885,80.290635,Tourist destination in Chennai. Category: mosque
+"General Post Office, Chennai",Andhra Pradesh,Chennai,Other,,,13.092778,80.291111,Tourist destination in Chennai. Category: building
+Hafiz Ahmad Khan Mosque,Andhra Pradesh,Chennai,Spiritual,,,13.053128,80.27348,Tourist destination in Chennai. Category: mosque
+Madras Observatory,Andhra Pradesh,Chennai,Other,,,13.068056,80.246667,Tourist destination in Chennai. Category: attraction
+Karl Schmidt Memorial,Tamil Nadu,Chennai,Heritage,,,12.999443,80.272159,Tourist destination in Chennai. Category: monument
+Guindy National Park,Tamil Nadu,Chennai,Nature,,,13.004925,80.237872,Tourist destination in Chennai. Category: park
+Chennai Lighthouse,Andhra Pradesh,Chennai,Other,,,13.039743,80.27923,Tourist destination in Chennai. Category: lighthouse
+Loyola College,Andhra Pradesh,Chennai,Other,,,13.062,80.234,Tourist destination in Chennai. Category: university
+Mgr and Jayalalitha Memorial,Andhra Pradesh,Chennai,Heritage,,,13.064274,80.285315,Tourist destination in Chennai. Category: monument
+Madras War Cemetery,Tamil Nadu,Chennai,Heritage,,,13.014011,80.19398,Tourist destination in Chennai. Category: monument
+Marina Beach,Andhra Pradesh,Chennai,Nature,,,13.05519,80.28471,Tourist destination in Chennai. Category: beach
+Marundeeswarar Temple,Tamil Nadu,Chennai,Spiritual,,,12.984872,80.260587,Tourist destination in Chennai. Category: temple
+May Day Park,Andhra Pradesh,Chennai,Nature,,,13.073444,80.271033,Tourist destination in Chennai. Category: garden
+Periamet Mosque,Andhra Pradesh,Chennai,Spiritual,,,13.08468,80.27018,Tourist destination in Chennai. Category: mosque
+"Raintree Hotel, St Mary'S Road",Tamil Nadu,Chennai,Other,,,13.028653,80.250285,Tourist destination in Chennai. Category: building
+Egmore Eye Hospital,Andhra Pradesh,Chennai,Other,,,13.070313,80.260735,Tourist destination in Chennai. Category: building
+Chennai Rail Museum,Andhra Pradesh,Chennai,Heritage,,,13.100107,80.208675,Tourist destination in Chennai. Category: museum
+San Thome Basilica,Andhra Pradesh,Chennai,Other,,,13.0336,80.277831,Tourist destination in Chennai. Category: cathedral
+Royapuram Railway Station,Andhra Pradesh,Chennai,Other,,,13.10429,80.293613,Tourist destination in Chennai. Category: building
+"Saint Patrick'S Cathedral, Chennai",Tamil Nadu,Chennai,Spiritual,,,13.008099,80.195327,Tourist destination in Chennai. Category: church
+Sathyabama University,Tamil Nadu,Chennai,Other,,,12.873056,80.221945,Tourist destination in Chennai. Category: university
+Senate House,Andhra Pradesh,Chennai,Other,,,13.065082,80.282909,Tourist destination in Chennai. Category: building
+Southern Railway Headquarters,Andhra Pradesh,Chennai,Other,,,13.082523,80.277601,Tourist destination in Chennai. Category: building
+Equestrian Statue of Thomas Munro,Andhra Pradesh,Chennai,Heritage,,,13.0759,80.2788,Tourist destination in Chennai. Category: statue
+The Raintree Hotel Anna Salai,Tamil Nadu,Chennai,Other,,,13.033904,80.241876,Tourist destination in Chennai. Category: building
+Tholkappia Poonga,Tamil Nadu,Chennai,Nature,,,13.019191,80.264689,Tourist destination in Chennai. Category: park
+Triumph of Labour,Andhra Pradesh,Chennai,Heritage,,,13.064112,80.283748,Tourist destination in Chennai. Category: statue
+Victoria Public Hall,Andhra Pradesh,Chennai,Other,,,13.081863,80.272634,Tourist destination in Chennai. Category: building
+Victory War Memorial,Andhra Pradesh,Chennai,Heritage,,,13.0733,80.2856,Tourist destination in Chennai. Category: monument
+Indian Institute of Technology Madras,Tamil Nadu,Chennai,Other,,,12.991667,80.233889,Tourist destination in Chennai. Category: university
+Nataraja Temple,Not specified,Chidambaram,Spiritual,,,11.399444,79.693333,Tourist destination in Chidambaram. Category: temple
+Manjari,Karnataka,Chikodi,Other,,,16.559296,74.690264,Tourist destination in Chikodi. Category: village
+Chitradurga Fort,Kerala,Chitradurga,Heritage,,,14.2152,76.3953,Tourist destination in Chitradurga. Category: fortification
+Srikalahasti Temple,Andhra Pradesh,Chittoor,Spiritual,,,13.7494,79.6983,Tourist destination in Chittoor. Category: temple
+Mirabai Temple,Madhya Pradesh,Chittorgarh,Spiritual,,,24.890331,74.64494,Tourist destination in Chittorgarh. Category: temple
+Chittorgarh Fort,Madhya Pradesh,Chittorgarh,Heritage,,,24.887222,74.646944,Tourist destination in Chittorgarh. Category: fortification
+Chunar Fort,Not specified,Chunar,Heritage,,,25.1233,82.876247,Tourist destination in Chunar. Category: fortification
+Gedee Car Museum,Not specified,Coimbatore,Heritage,,,11.007278,76.978089,Tourist destination in Coimbatore. Category: museum
+Maruthamalai Marudhachalamurthy Temple,Not specified,Coimbatore,Spiritual,,,11.046568,76.851707,Tourist destination in Coimbatore. Category: temple
+Arulmigu Koniamman Temple,Not specified,Coimbatore,Spiritual,,,10.993333,76.963611,Tourist destination in Coimbatore. Category: temple
+Eachanari Vinayagar Temple,Not specified,Coimbatore,Spiritual,,,10.923952,76.98235,Tourist destination in Coimbatore. Category: temple
+Ukkadam Lake,Not specified,Coimbatore,Nature,,,10.985002,76.950861,Tourist destination in Coimbatore. Category: lake
+Adiyogi Shiva Statue,Not specified,Coimbatore,Heritage,,,10.979444,76.735,Tourist destination in Coimbatore. Category: statue
+Gass Forest Museum,Not specified,Coimbatore,Heritage,,,11.0136,76.9458,Tourist destination in Coimbatore. Category: museum
+Kari Motor Speedway,Not specified,Coimbatore,Other,,,10.901389,77.050833,Tourist destination in Coimbatore. Category: attraction
+"Nehru Stadium, Coimbatore",Not specified,Coimbatore,Adventure,,,11.006626,76.969475,Tourist destination in Coimbatore. Category: stadium
+Cooch Behar Palace,Meghalaya,Cooch Behar,Heritage,,,26.326944,89.438611,Tourist destination in Cooch Behar. Category: palace
+Baneshwar Shiva Temple,Meghalaya,Cooch Behar,Spiritual,,,26.398658,89.49798,Tourist destination in Cooch Behar. Category: temple
+Coonoor Railway Station,Not specified,Coonoor,Other,,,11.343714,76.791337,Tourist destination in Coonoor. Category: building
+Moti Daman Fort,Not specified,Daman,Heritage,,,20.40583,72.834084,Tourist destination in Daman. Category: fortification
+Saint Jeronimo'S Fort,Not specified,Daman,Heritage,,,20.413292,72.832162,Tourist destination in Daman. Category: fortification
+Devka Beach,Not specified,Daman,Nature,,,20.443089,72.831515,Tourist destination in Daman. Category: beach
+Himalayan Tibet Museum,Bihar,Darjeeling,Heritage,,,27.039443,88.265887,Tourist destination in Darjeeling. Category: museum
+Tihar,Bihar,Darjeeling,Other,,,27.037755,88.263176,Tourist destination in Darjeeling. Category: attraction
+Padmaja Naidu Himalayan Zoological Park,Bihar,Darjeeling,Nature,,,27.05861,88.254405,Tourist destination in Darjeeling. Category: zoo
+Darjeeling Himalayan Railway,Bihar,Darjeeling,Heritage,,,27.037371,88.26285,Tourist destination in Darjeeling. Category: museum
+Darjeeling Municipality,Bihar,Darjeeling,Other,,,27.040804,88.266051,Tourist destination in Darjeeling. Category: town
+Mahakal Temple,Bihar,Darjeeling,Spiritual,,,27.047764,88.267958,Tourist destination in Darjeeling. Category: temple
+Ghum Railway Station,Bihar,Darjeeling,Other,,,27.00832,88.253885,Tourist destination in Darjeeling. Category: building
+Mag-Dhog Yolmowa Monastery,Bihar,Darjeeling,Spiritual,,,27.02442,88.262742,Tourist destination in Darjeeling. Category: monastery
+"Peace Pagoda, Darjeeling",Bihar,Darjeeling,Heritage,,,27.02756,88.259,Tourist destination in Darjeeling. Category: tower
+Lloyd'S Botanical Garden,Bihar,Darjeeling,Nature,,,27.0446,88.2629,Tourist destination in Darjeeling. Category: botanical-garden
+Army Cadet College,Uttar Pradesh,Dehradun,Other,,,30.325565,78.043681,Tourist destination in Dehradun. Category: attraction
+Khalanga War Memorial,Uttar Pradesh,Dehradun,Heritage,,,30.336489,78.067759,Tourist destination in Dehradun. Category: monument
+Vaidyanath Jyotirlinga,Jharkhand,Deoghar,Spiritual,,,24.4925,86.7,Tourist destination in Deoghar. Category: temple
+Jasidih,Jharkhand,Deoghar,Other,,,24.512496,86.647927,Tourist destination in Deoghar. Category: locality
+Bhojshala and Kamal Maula’S Mosque,Maharashtra,Dhar,Spiritual,,,22.590514,75.295041,Tourist destination in Dhar. Category: mosque
+Namgyal Monastery,Punjab,Dharamshala,Spiritual,,,32.232439,76.324445,Tourist destination in Dharamshala. Category: monastery
+Dharmapuri Kamakshy Amman Temple,Tamil Nadu,Dharmapuri,Spiritual,,,12.142651,78.16643,Tourist destination in Dharmapuri. Category: temple
+Chenraya Perumal Temple,Tamil Nadu,Dharmapuri,Spiritual,,,12.074755,78.119157,Tourist destination in Dharmapuri. Category: temple
+Diamond Harbour,West Bengal,Diamond Harbour,Other,,,22.18949,88.184571,Tourist destination in Diamond Harbour. Category: town
+Bogibeel Bridge,Arunachal Pradesh,Dibrugarh,Other,,,27.408611,94.760278,Tourist destination in Dibrugarh. Category: bridge
+Ahivant Fort,Maharashtra,"Dindori, Maharashtra",Heritage,,,20.413942,73.84959,"Tourist destination in Dindori, Maharashtra. Category: fortification"
+Gaib Sagar Lake,Not specified,Dungarpur,Nature,,,23.839527,73.718976,Tourist destination in Dungarpur. Category: lake
+Badal Mahal,Not specified,Dungarpur,Heritage,,,23.841086,73.719942,Tourist destination in Dungarpur. Category: palace
+Durgapur Thermal Power Station,Jharkhand,Durgapur,Other,,,23.531111,87.250278,Tourist destination in Durgapur. Category: building
+Dwarakadhish Temple,Not specified,Dwarka,Spiritual,,,22.237866,68.967416,Tourist destination in Dwarka. Category: temple
+Sudama Setu,Not specified,Dwarka,Other,,,22.236667,68.968611,Tourist destination in Dwarka. Category: bridge
+Rukmini Devi Temple,Not specified,Dwarka,Spiritual,,,22.257334,68.964482,Tourist destination in Dwarka. Category: temple
+Dwarka,Not specified,Dwarka,Other,,,22.238227,68.971598,Tourist destination in Dwarka. Category: town
+Mattancherry Palace,Not specified,Ernakulam,Heritage,,,9.958347,76.259335,Tourist destination in Ernakulam. Category: palace
+Fort Kochi Beach,Not specified,Ernakulam,Nature,,,9.967655,76.243978,Tourist destination in Ernakulam. Category: beach
+Kerala Museum,Not specified,Ernakulam,Heritage,,,10.03796,76.314995,Tourist destination in Ernakulam. Category: museum
+Willingdon Island,Not specified,Ernakulam,Nature,,,9.95,76.275,Tourist destination in Ernakulam. Category: island
+Paradesi Synagogue,Not specified,Ernakulam,Other,,,9.957483,76.259302,Tourist destination in Ernakulam. Category: synagogue
+Vallarpadam Church,Not specified,Ernakulam,Spiritual,,,9.989905,76.250058,Tourist destination in Ernakulam. Category: church
+Hill Palace,Not specified,Ernakulam,Heritage,,,9.952603,76.362472,Tourist destination in Ernakulam. Category: museum
+Indo-Portuguese Museum,Not specified,Ernakulam,Heritage,,,9.962314,76.240272,Tourist destination in Ernakulam. Category: museum
+Kothad,Not specified,Ernakulam,Nature,,,10.047222,76.26773,Tourist destination in Ernakulam. Category: island
+Mangalavanam Bird Sanctuary,Not specified,Ernakulam,Other,,,9.98874,76.272524,Tourist destination in Ernakulam. Category: attraction
+Mulavukad,Not specified,Ernakulam,Other,,,10.032554,76.251323,Tourist destination in Ernakulam. Category: neighbourhood
+Begumpur Mosque,Delhi,Faridabad,Spiritual,,,28.539213,77.206948,Tourist destination in Faridabad. Category: mosque
+Khirki Masjid,Delhi,Faridabad,Spiritual,,,28.531503,77.219719,Tourist destination in Faridabad. Category: mosque
+Fazilka Tv Tower,Not specified,Fazilka,Heritage,,,30.39562,74.0338,Tourist destination in Fazilka. Category: tower
+Namgyal Institute of Tibetology,Sikkim,Gangtok,Other,,,27.315736,88.604825,Tourist destination in Gangtok. Category: attraction
+Enchey Monastery,Sikkim,Gangtok,Spiritual,,,27.335937,88.619166,Tourist destination in Gangtok. Category: monastery
+Hanuman Tok,Sikkim,Gangtok,Spiritual,,,27.34783,88.6287,Tourist destination in Gangtok. Category: temple
+Paljor Stadium,Sikkim,Gangtok,Adventure,,,27.334131,88.611981,Tourist destination in Gangtok. Category: stadium
+Dahej Port,Not specified,Ghogha,Other,,,21.7,72.533333,Tourist destination in Ghogha. Category: building
+Buddh International Circuit,Delhi,Greater Noida,Other,,,28.350556,77.535,Tourist destination in Greater Noida. Category: attraction
+Indroda Dinosaur and Fossil Park,Not specified,Gujarat,Nature,,,23.197731,72.65697,Tourist destination in Gujarat. Category: park
+Bajrangarh Fort,Madhya Pradesh,Guna,Other,,,24.585017,77.294582,Tourist destination in Guna. Category: village
+Sheetla Mata Mandir Gurgaon,Delhi,Gurgaon,Spiritual,,,28.4783,77.0305,Tourist destination in Gurgaon. Category: temple
+Tau Devi Lal Stadium,Delhi,Gurgaon,Adventure,,,28.442222,77.036389,Tourist destination in Gurgaon. Category: stadium
+"The Oberoi, Gurgaon",Delhi,Gurgaon,Other,,,28.50217,77.088228,Tourist destination in Gurgaon. Category: building
+Amchang Wildlife Sanctuary,Assam,Guwahati,Other,,,26.184219,91.862133,Tourist destination in Guwahati. Category: attraction
+Assam State Zoo Cum Botanical Garden,Assam,Guwahati,Nature,,,26.1632,91.7868,Tourist destination in Guwahati. Category: zoo
+Assam State Museum,Assam,Guwahati,Heritage,,,26.185335,91.751904,Tourist destination in Guwahati. Category: museum
+Gopachal Rock-Cut Jain Monuments,Madhya Pradesh,Gwalior,Heritage,,,26.214778,78.1675,Tourist destination in Gwalior. Category: monument
+Teli Ka Temple,Madhya Pradesh,Gwalior,Spiritual,,,26.220305,78.165889,Tourist destination in Gwalior. Category: temple
+Gwalior Fort,Madhya Pradesh,Gwalior,Heritage,,,26.2303,78.1689,Tourist destination in Gwalior. Category: fortification
+Chaturbhuj Temple,Madhya Pradesh,Gwalior,Spiritual,,,26.230905,78.169871,Tourist destination in Gwalior. Category: temple
+Jai Vilas Mahal,Madhya Pradesh,Gwalior,Heritage,,,26.204608,78.168554,Tourist destination in Gwalior. Category: museum
+Sasbahu Temple,Madhya Pradesh,Gwalior,Spiritual,,,26.2236,78.170423,Tourist destination in Gwalior. Category: temple
+Man Singh Palace,Madhya Pradesh,Gwalior,Heritage,,,26.230331,78.16927,Tourist destination in Gwalior. Category: palace
+Naukuchiatal,Uttar Pradesh,Haldwani,Nature,,,29.321661,79.580005,Tourist destination in Haldwani. Category: lake
+Padmakshi Temple,Andhra Pradesh,Hanamkonda District,Spiritual,,,17.997952,79.566996,Tourist destination in Hanamkonda District. Category: temple
+Thousand Pillar Temple,Andhra Pradesh,Hanamkonda District,Spiritual,,,18.003755,79.5747,Tourist destination in Hanamkonda District. Category: temple
+Warangal Fort,Andhra Pradesh,Hanamkonda District,Heritage,,,17.956495,79.615425,Tourist destination in Hanamkonda District. Category: fortification
+Cantonment Church Tower,Not specified,Haryana,Spiritual,,,29.7062,76.9873,Tourist destination in Haryana. Category: church
+Siddhesvara Temple,Not specified,Haveri,Spiritual,,,14.790556,75.410833,Tourist destination in Haveri. Category: temple
+Firoz Shah Palace Complex,Not specified,Hisar,Heritage,,,29.166601,75.720577,Tourist destination in Hisar. Category: palace
+"Ganesha Temple, Idagunji",Not specified,Honnavar,Spiritual,,,14.23025,74.494414,Tourist destination in Honnavar. Category: temple
+Lotus Mahal Pavilion,Not specified,Hosapete,Heritage,,,15.320285,76.471324,Tourist destination in Hosapete. Category: palace
+Bekal Fort,Not specified,Hosdurg Taluk,Heritage,,,12.389195,75.039046,Tourist destination in Hosdurg Taluk. Category: fortification
+Hosdurg Fort,Not specified,Hosdurg Taluk,Other,,,12.309124,75.094702,Tourist destination in Hosdurg Taluk. Category: attraction
+Minumuluru,Andhra Pradesh,Hukumpeta,Other,,,18.036606,82.699349,Tourist destination in Hukumpeta. Category: village
+Indira Park,Karnataka,Hyderabad,Nature,,,17.414754,78.483045,Tourist destination in Hyderabad. Category: park
+Sri Kashi Bugga Mandir,Karnataka,Hyderabad,Spiritual,,,17.358365,78.446637,Tourist destination in Hyderabad. Category: temple
+Masjid E Qutub Shahi Langer Houz,Karnataka,Hyderabad,Spiritual,,,17.378758,78.417941,Tourist destination in Hyderabad. Category: mosque
+Karmanghat Hanuman Temple,Karnataka,Hyderabad,Spiritual,,,17.339722,78.524722,Tourist destination in Hyderabad. Category: temple
+King Kothi Palace,Karnataka,Hyderabad,Heritage,,,17.392802,78.480834,Tourist destination in Hyderabad. Category: palace
+"Jama Masjid, Hyderabad",Karnataka,Hyderabad,Spiritual,,,17.362222,78.475,Tourist destination in Hyderabad. Category: mosque
+Secretariat Mosque,Karnataka,Hyderabad,Spiritual,,,17.409744,78.468339,Tourist destination in Hyderabad. Category: mosque
+Sultan Nagar Fort,Karnataka,Hyderabad,Other,,,17.358951,78.546984,Tourist destination in Hyderabad. Category: attraction
+Dabirpura Gate,Karnataka,Hyderabad,Heritage,,,17.367922,78.485169,Tourist destination in Hyderabad. Category: monument
+"Jagannath Temple, Hyderabad",Karnataka,Hyderabad,Spiritual,,,17.415148,78.426232,Tourist destination in Hyderabad. Category: temple
+Golconda Fort,Karnataka,Hyderabad,Heritage,,,17.383309,78.401052,Tourist destination in Hyderabad. Category: fortification
+Salar Jung Museum,Karnataka,Hyderabad,Heritage,,,17.371426,78.480347,Tourist destination in Hyderabad. Category: museum
+Falaknuma Palace,Karnataka,Hyderabad,Heritage,,,17.330955,78.467504,Tourist destination in Hyderabad. Category: palace
+Dr. B.R. Ambedkar Telangana State Secretariat,Karnataka,Hyderabad,Other,,,17.45,78.5,Tourist destination in Hyderabad. Category: building
+Lal Bahadur Shastri Stadium,Karnataka,Hyderabad,Adventure,,,17.399333,78.473333,Tourist destination in Hyderabad. Category: stadium
+Mrugavani National Park,Karnataka,Hyderabad,Nature,,,17.354014,78.335195,Tourist destination in Hyderabad. Category: park
+Mahavir Harina Vanasthali National Park,Karnataka,Hyderabad,Nature,,,17.340863,78.584943,Tourist destination in Hyderabad. Category: park
+Hussain Sagar,Karnataka,Hyderabad,Nature,,,17.42222,78.47389,Tourist destination in Hyderabad. Category: lake
+Telangana High Court,Karnataka,Hyderabad,Other,,,17.369165,78.472133,Tourist destination in Hyderabad. Category: attraction
+Hitech City,Karnataka,Hyderabad,Other,,,17.44155,78.38264,Tourist destination in Hyderabad. Category: locality
+Chowmahalla Palace,Karnataka,Hyderabad,Heritage,,,17.357725,78.471705,Tourist destination in Hyderabad. Category: palace
+Nehru Zoological Park,Karnataka,Hyderabad,Nature,,,17.351111,78.449722,Tourist destination in Hyderabad. Category: zoo
+State Central Library,Karnataka,Hyderabad,Other,,,17.374157,78.47822,Tourist destination in Hyderabad. Category: library
+Golconda,Karnataka,Hyderabad,Heritage,,,17.383336,78.404169,Tourist destination in Hyderabad. Category: archaeological-site
+Telangana State Archaeology Museum,Karnataka,Hyderabad,Heritage,,,17.385044,78.486671,Tourist destination in Hyderabad. Category: museum
+St Joseph'S Cathedral,Karnataka,Hyderabad,Other,,,17.393,78.473,Tourist destination in Hyderabad. Category: cathedral
+"Birla Mandir, Hyderabad",Karnataka,Hyderabad,Spiritual,,,17.38,78.4,Tourist destination in Hyderabad. Category: temple
+Buddha Statue of Hyderabad,Karnataka,Hyderabad,Heritage,,,17.415584,78.47496,Tourist destination in Hyderabad. Category: statue
+Rashtrapati Nilayam,Karnataka,Hyderabad,Other,,,17.504597,78.521531,Tourist destination in Hyderabad. Category: building
+G. M. C. Balayogi Athletic Stadium,Karnataka,Hyderabad,Adventure,,,17.446241,78.344214,Tourist destination in Hyderabad. Category: stadium
+Gyan Bagh Palace,Karnataka,Hyderabad,Heritage,,,17.37997,78.465719,Tourist destination in Hyderabad. Category: palace
+Gulzar Houz,Karnataka,Hyderabad,Heritage,,,17.363451,78.474999,Tourist destination in Hyderabad. Category: statue
+Hayat Bakshi Mosque,Karnataka,Hyderabad,Spiritual,,,17.395,78.396111,Tourist destination in Hyderabad. Category: mosque
+Kulsum Begum Masjid,Karnataka,Hyderabad,Spiritual,,,17.375204,78.443318,Tourist destination in Hyderabad. Category: mosque
+Shaikpet Sarai,Karnataka,Hyderabad,Other,,,17.406309,78.396577,Tourist destination in Hyderabad. Category: attraction
+Khairatabad Mosque,Karnataka,Hyderabad,Spiritual,,,17.360589,78.474061,Tourist destination in Hyderabad. Category: mosque
+Laad Bazaar,Karnataka,Hyderabad,Other,,,17.361923,78.472842,Tourist destination in Hyderabad. Category: square
+Lal Darwaza,Karnataka,Hyderabad,Heritage,,,17.35,78.483333,Tourist destination in Hyderabad. Category: fortification
+Malwala Palace,Karnataka,Hyderabad,Heritage,,,17.360278,78.478333,Tourist destination in Hyderabad. Category: palace
+Moazzam Jahi Market,Karnataka,Hyderabad,Other,,,17.384561,78.47505,Tourist destination in Hyderabad. Category: square
+Ntr Gardens,Karnataka,Hyderabad,Nature,,,17.41,78.4722,Tourist destination in Hyderabad. Category: park
+Nayapul,Karnataka,Hyderabad,Other,,,17.371594,78.476541,Tourist destination in Hyderabad. Category: bridge
+Paigah Tombs,Karnataka,Hyderabad,Other,,,17.343989,78.503876,Tourist destination in Hyderabad. Category: cemetery
+"Public Gardens, Hyderabad",Karnataka,Hyderabad,Nature,,,17.3982,78.4695,Tourist destination in Hyderabad. Category: park
+Purana Pul,Karnataka,Hyderabad,Other,,,17.36755,78.458277,Tourist destination in Hyderabad. Category: bridge
+Purani Haveli,Karnataka,Hyderabad,Heritage,,,17.365507,78.482675,Tourist destination in Hyderabad. Category: palace
+Qutb Shahi Tombs,Karnataka,Hyderabad,Heritage,,,17.395513,78.396829,Tourist destination in Hyderabad. Category: monument
+Rajiv Gandhi International Cricket Stadium,Karnataka,Hyderabad,Adventure,,,17.4065,78.550445,Tourist destination in Hyderabad. Category: stadium
+Raymond'S Tomb,Karnataka,Hyderabad,Heritage,,,17.364765,78.515214,Tourist destination in Hyderabad. Category: monument
+Sanjeevaiah Park,Karnataka,Hyderabad,Nature,,,17.4328,78.4757,Tourist destination in Hyderabad. Category: park
+Snow World,Karnataka,Hyderabad,Nature,,,17.414532,78.480974,Tourist destination in Hyderabad. Category: amusement-park
+"St. George'S Church, Hyderabad",Karnataka,Hyderabad,Spiritual,,,17.393346,78.477131,Tourist destination in Hyderabad. Category: church
+Sultan Bazar,Karnataka,Hyderabad,Other,,,17.383333,78.483333,Tourist destination in Hyderabad. Category: neighbourhood
+Toli Masjid,Karnataka,Hyderabad,Spiritual,,,17.37461,78.43897,Tourist destination in Hyderabad. Category: mosque
+Durgam Cheruvu Bridge,Karnataka,Hyderabad,Other,,,17.4317,78.39,Tourist destination in Hyderabad. Category: bridge
+Manipur State Museum,Manipur,Imphal,Heritage,,,24.804936,93.937086,Tourist destination in Imphal. Category: museum
+Samban-Lei Sekpil,Manipur,Imphal,Other,,,24.793516,93.922056,Tourist destination in Imphal. Category: attraction
+Kamla Nehru Prani Sangrahalay,Maharashtra,Indore,Nature,,,22.704151,75.877875,Tourist destination in Indore. Category: zoo
+Sirpur Lake,Maharashtra,Indore,Nature,,,22.702747,75.812115,Tourist destination in Indore. Category: lake
+Lalbagh Palace,Maharashtra,Indore,Heritage,,,22.70254,75.846789,Tourist destination in Indore. Category: palace
+Ita Fort,Assam,Itanagar,Heritage,,,27.09216,93.631784,Tourist destination in Itanagar. Category: fortification
+Ganesh Pol,Madhya Pradesh,Jaipur,Other,,,26.986094,75.85059,Tourist destination in Jaipur. Category: building
+Suraj Pol,Madhya Pradesh,Jaipur,Other,,,26.986732,75.851352,Tourist destination in Jaipur. Category: building
+Jaigarh Fort,Madhya Pradesh,Jaipur,Heritage,,,26.98469,75.8454,Tourist destination in Jaipur. Category: fortification
+City Palace,Madhya Pradesh,Jaipur,Heritage,,,26.9255,75.8236,Tourist destination in Jaipur. Category: museum
+Nahargarh Fort,Madhya Pradesh,Jaipur,Heritage,,,26.937435,75.815696,Tourist destination in Jaipur. Category: fortification
+Jal Mahal,Madhya Pradesh,Jaipur,Heritage,,,26.953458,75.846123,Tourist destination in Jaipur. Category: palace
+Galtaji,Madhya Pradesh,Jaipur,Spiritual,,,26.91692,75.85812,Tourist destination in Jaipur. Category: temple
+Amber Fort,Madhya Pradesh,Jaipur,Heritage,,,26.98631,75.850661,Tourist destination in Jaipur. Category: fortification
+Amber Palace,Madhya Pradesh,Jaipur,Heritage,,,26.985487,75.851345,Tourist destination in Jaipur. Category: palace
+Birla Mandir,Madhya Pradesh,Jaipur,Spiritual,,,26.892161,75.815529,Tourist destination in Jaipur. Category: temple
+Jantar Mantar,Madhya Pradesh,Jaipur,Other,,,26.924762,75.82456,Tourist destination in Jaipur. Category: attraction
+Jaivana Cannon,Madhya Pradesh,Jaipur,Other,,,26.979982,75.843816,Tourist destination in Jaipur. Category: attraction
+Jawahar Circle,Madhya Pradesh,Jaipur,Nature,,,26.8404,75.8003,Tourist destination in Jaipur. Category: park
+Sisodiya Rani Bagh,Madhya Pradesh,Jaipur,Heritage,,,26.899269,75.858629,Tourist destination in Jaipur. Category: palace
+Hawa Mahal,Madhya Pradesh,Jaipur,Heritage,,,26.923932,75.826865,Tourist destination in Jaipur. Category: palace
+Panna Meena Ka Kund,Madhya Pradesh,Jaipur,Other,,,26.991208,75.851227,Tourist destination in Jaipur. Category: attraction
+Hawa Prol,Gujarat,Jaisalmer,Other,,,26.912872,70.913291,Tourist destination in Jaisalmer. Category: building
+Vyas Chhatri Cenotaphs,Gujarat,Jaisalmer,Other,,,26.922356,70.906816,Tourist destination in Jaisalmer. Category: attraction
+Kuldhara,Gujarat,Jaisalmer,Other,,,26.869877,70.785123,Tourist destination in Jaisalmer. Category: village
+Bada Bagh Chhatris,Gujarat,Jaisalmer,Other,,,26.955111,70.887722,Tourist destination in Jaisalmer. Category: attraction
+Nathmal Ki Haveli,Gujarat,Jaisalmer,Other,,,26.915907,70.912689,Tourist destination in Jaisalmer. Category: building
+Teelon Ki Prol,Gujarat,Jaisalmer,Heritage,,,26.90913,70.920918,Tourist destination in Jaisalmer. Category: monument
+Geeta Mandir Jalandhar,Punjab,Jalandhar,Spiritual,,,31.30797,75.581934,Tourist destination in Jalandhar. Category: religious-site
+Jang-E-Azadi Memorial,Punjab,Jalandhar,Heritage,,,31.433968,75.505513,Tourist destination in Jalandhar. Category: museum
+Lakhota Lake,Not specified,Jamnagar,Nature,,,22.465019,70.070354,Tourist destination in Jamnagar. Category: lake
+Jamnagar,Not specified,Jamnagar,Other,,,22.458028,70.070809,Tourist destination in Jamnagar. Category: town
+"Atala Masjid, Jaunpur",Not specified,Jaunpur,Spiritual,,,25.752674,82.689981,Tourist destination in Jaunpur. Category: mosque
+"Jama Masjid, Jaunpur",Not specified,Jaunpur,Spiritual,,,25.759005,82.685053,Tourist destination in Jaunpur. Category: mosque
+"Shahi Bridge, Jaunpur",Not specified,Jaunpur,Other,,,25.749082,82.684674,Tourist destination in Jaunpur. Category: bridge
+Bagra,Andhra Pradesh,Jeypore,Nature,,,18.800415,82.584785,Tourist destination in Jeypore. Category: waterfall
+"Jagannath Temple, Koraput",Andhra Pradesh,Jeypore,Spiritual,,,18.810606,82.709197,Tourist destination in Jeypore. Category: temple
+Gagron Fort,Madhya Pradesh,Jhalrapatan,Heritage,,,24.625713,76.188271,Tourist destination in Jhalrapatan. Category: fortification
+Jhansi Fort,Madhya Pradesh,Jhansi,Heritage,,,25.458329,78.575405,Tourist destination in Jhansi. Category: fortification
+Jhansi,Madhya Pradesh,Jhansi,Other,,,25.442034,78.566839,Tourist destination in Jhansi. Category: town
+Jarai-Ka-Math,Madhya Pradesh,Jhansi,Spiritual,,,25.388989,78.706965,Tourist destination in Jhansi. Category: temple
+Mehrangarh Fort,Gujarat,Jodhpur,Heritage,,,26.298,73.018367,Tourist destination in Jodhpur. Category: fortification
+Lohawat,Gujarat,Jodhpur,Other,,,26.983333,72.583333,Tourist destination in Jodhpur. Category: village
+Chand Baori,Gujarat,Jodhpur,Other,,,26.297818,73.015274,Tourist destination in Jodhpur. Category: attraction
+Umaid Bhawan Palace,Gujarat,Jodhpur,Heritage,,,26.280833,73.046945,Tourist destination in Jodhpur. Category: palace
+Jaswant Thada,Gujarat,Jodhpur,Heritage,,,26.303889,73.025278,Tourist destination in Jodhpur. Category: monument
+Bava Pyara Caves,Not specified,Junagadh,Nature,,,21.519893,70.470115,Tourist destination in Junagadh. Category: cave
+Uparkot Caves,Not specified,Junagadh,Nature,,,21.525804,70.469557,Tourist destination in Junagadh. Category: cave
+Khapra Kodiya Caves,Not specified,Junagadh,Nature,,,21.529923,70.468207,Tourist destination in Junagadh. Category: cave
+Adi Kadi Vav,Not specified,Junagadh,Other,,,21.526635,70.471396,Tourist destination in Junagadh. Category: attraction
+Mahabat Maqbara Complex,Not specified,Junagadh,Heritage,,,21.527571,70.460038,Tourist destination in Junagadh. Category: monument
+"Shri Swaminarayan Mandir, Junagadh",Not specified,Junagadh,Spiritual,,,21.516648,70.465188,Tourist destination in Junagadh. Category: temple
+Girnar Ropeway,Not specified,Junagadh,Other,,,21.527667,70.514008,Tourist destination in Junagadh. Category: attraction
+Jumma Masjid and Cannon (Neelam and Kadanal),Not specified,Junagadh,Spiritual,,,21.524777,70.470046,Tourist destination in Junagadh. Category: mosque
+Langar Ki Masjid,Karnataka,Kalaburagi,Spiritual,,,17.364583,76.831833,Tourist destination in Kalaburagi. Category: mosque
+Gulbarga Fort,Karnataka,Kalaburagi,Heritage,,,17.340743,76.831107,Tourist destination in Kalaburagi. Category: fortification
+Annapoorneshwari Temple,Kerala,Kalasa,Spiritual,,,13.2705,75.3414,Tourist destination in Kalasa. Category: temple
+Adalaj Stepwell,Not specified,Kalol,Other,,,23.166783,72.580464,Tourist destination in Kalol. Category: attraction
+Maha Stupa At Amaravati,Andhra Pradesh,Kanchikacherla Mandal,Spiritual,,,16.575709,80.356493,Tourist destination in Kanchikacherla Mandal. Category: religious-site
+"Jagannath Temple, Thalassery",Not specified,Kannur,Spiritual,,,11.73727,75.5083,Tourist destination in Kannur. Category: temple
+St. Angelo Fort,Not specified,Kannur,Heritage,,,11.854121,75.371976,Tourist destination in Kannur. Category: fortification
+Meenkunnu Beach,Not specified,Kannur,Nature,,,11.912044,75.319563,Tourist destination in Kannur. Category: beach
+Arakkal Museum,Not specified,Kannur,Heritage,,,11.859432,75.378306,Tourist destination in Kannur. Category: museum
+Kannur,Not specified,Kannur,Other,,,11.858878,75.360077,Tourist destination in Kannur. Category: town
+Mappila Bay,Not specified,Kannur,Other,,,11.856983,75.375922,Tourist destination in Kannur. Category: attraction
+Payyambalam Beach,Not specified,Kannur,Other,,,11.871402,75.351076,Tourist destination in Kannur. Category: locality
+Kanpur Civil Airport,Not specified,Kanpur,Other,,,26.441238,80.363209,Tourist destination in Kanpur. Category: building
+Champanath,Not specified,Kanpur,Spiritual,,,20.46344,85.100501,Tourist destination in Kanpur. Category: temple
+Kanpur Zoological Park,Not specified,Kanpur,Nature,,,26.502869,80.303123,Tourist destination in Kanpur. Category: botanical-garden
+Ganges Barrage,Not specified,Kanpur,Other,,,26.5078,80.3169,Tourist destination in Kanpur. Category: bridge
+Thiruvalluvar Statue,Not specified,Kanyakumari,Heritage,,,8.077778,77.553889,Tourist destination in Kanyakumari. Category: statue
+Gandhi Memorial,Not specified,Kanyakumari,Heritage,,,8.078744,77.549953,Tourist destination in Kanyakumari. Category: monument
+Vivekananda Rock Memorial,Not specified,Kanyakumari,Heritage,,,8.078104,77.555366,Tourist destination in Kanyakumari. Category: monument
+Vattakottai Fort,Not specified,Kanyakumari,Heritage,,,8.125759,77.564974,Tourist destination in Kanyakumari. Category: fortification
+Elgandal Fort,Karnataka,Karimnagar,Heritage,,,18.421065,79.040822,Tourist destination in Karimnagar. Category: fortification
+Karnal City Kos Minar,Not specified,Karnal,Heritage,,,29.69764,76.978236,Tourist destination in Karnal. Category: tower
+Kali Masjid,Not specified,Karnataka,Spiritual,,,17.909913,-77.51212,Tourist destination in Karnataka. Category: mosque
+Gurmitkal,Karnataka,Karnataka,Other,,,16.8664,77.3908,Tourist destination in Karnataka. Category: locality
+"National Gallery of Modern Art, Bengaluru",Tamil Nadu,Karnataka,Heritage,,,12.989412,77.588055,Tourist destination in Karnataka. Category: museum
+Vidhana Soudha,Tamil Nadu,Karnataka,Other,,,12.979693,77.590658,Tourist destination in Karnataka. Category: building
+Madiwala Lake,Tamil Nadu,Karnataka,Nature,,,12.905648,77.616204,Tourist destination in Karnataka. Category: lake
+Bengaluru Aquarium,Tamil Nadu,Karnataka,Nature,,,12.9765,77.5985,Tourist destination in Karnataka. Category: zoo
+Bengaluru Palace,Tamil Nadu,Karnataka,Heritage,,,12.998595,77.592009,Tourist destination in Karnataka. Category: palace
+Visvesvaraya Industrial and Technological Museum,Tamil Nadu,Karnataka,Heritage,,,12.975209,77.596421,Tourist destination in Karnataka. Category: museum
+Bengaluru Fort,Tamil Nadu,Karnataka,Heritage,,,12.962941,77.57576,Tourist destination in Karnataka. Category: fortification
+Tipu Sultan'S Summer Palace,Tamil Nadu,Karnataka,Heritage,,,12.959647,77.573684,Tourist destination in Karnataka. Category: palace
+Kovilthottam Lighthouse,Not specified,Karunagappalli,Other,,,9.0,76.5333,Tourist destination in Karunagappalli. Category: lighthouse
+Shankar Memorial National Cartoon Museum & Art Gallery,Not specified,Karunagappalli,Heritage,,,9.146781,76.512501,Tourist destination in Karunagappalli. Category: museum
+Krishnapuram Palace,Not specified,Karunagappalli,Heritage,,,9.150325,76.509199,Tourist destination in Karunagappalli. Category: museum
+Chandragiri Fort,Kerala,Kasaragod,Heritage,,,12.469907,75.003287,Tourist destination in Kasaragod. Category: fortification
+Ananthapura Lake Temple,Kerala,Kasaragod,Spiritual,,,12.584212,74.98194,Tourist destination in Kasaragod. Category: temple
+Bhoramdeo Temple,Odisha,Kawardha,Spiritual,,,22.116,81.148,Tourist destination in Kawardha. Category: temple
+Kazipet Swetharkamoola Ganapathi Temple,Andhra Pradesh,Kazipet,Spiritual,,,17.980718,79.513183,Tourist destination in Kazipet. Category: temple
+Bhadrakali Temple,Andhra Pradesh,Kazipet,Spiritual,,,17.994975,79.582838,Tourist destination in Kazipet. Category: temple
+Warangal Zoo,Andhra Pradesh,Kazipet,Nature,,,17.993638,79.561527,Tourist destination in Kazipet. Category: zoo
+Kedarnath Temple,Uttar Pradesh,Kedarnath,Spiritual,,,30.735231,79.066895,Tourist destination in Kedarnath. Category: temple
+Pandalam Valiya Koyikkal Kshethram,Not specified,Kerala,Spiritual,,,9.233938,76.672396,Tourist destination in Kerala. Category: temple
+Vypin Lighthouse,Not specified,Kerala,Other,,,9.998397,76.221599,Tourist destination in Kerala. Category: lighthouse
+Sree Sundareswara Temple,Not specified,Kerala,Spiritual,,,11.7461,75.4919,Tourist destination in Kerala. Category: temple
+Ernakulam Shiva Temple,Not specified,Kerala,Spiritual,,,9.968528,76.282444,Tourist destination in Kerala. Category: temple
+Kesaria Stupa,Bihar,Kesaria,Spiritual,,,26.33414,84.854762,Tourist destination in Kesaria. Category: religious-site
+Khajuraho Group of Monuments,Not specified,Khajuraho,Spiritual,,,24.85222,79.92222,Tourist destination in Khajuraho. Category: temple
+"Vamana Temple, Khajuraho",Not specified,Khajuraho,Spiritual,,,24.851517,79.934981,Tourist destination in Khajuraho. Category: temple
+Khetri Fort,Not specified,Khetri Nagar,Heritage,,,27.991976,75.772959,Tourist destination in Khetri Nagar. Category: fortification
+Cochin Port Maritime Heritage Museum,Not specified,Kochi,Heritage,,,9.968969,76.261012,Tourist destination in Kochi. Category: museum
+St. George'S Catholic Forane Church,Not specified,Kochi,Spiritual,,,10.0219,76.3053,Tourist destination in Kochi. Category: church
+Jawaharlal Nehru International Stadium,Not specified,Kochi,Adventure,,,9.997222,76.301111,Tourist destination in Kochi. Category: stadium
+Fort Emmanuel,Not specified,Kochi,Heritage,,,9.966316,76.239012,Tourist destination in Kochi. Category: fortification
+Santa Cruz Basilica,Not specified,Kochi,Other,,,9.965,76.243,Tourist destination in Kochi. Category: cathedral
+Fort Kochi,Not specified,Kochi,Other,,,9.965644,76.242,Tourist destination in Kochi. Category: neighbourhood
+St. Francis Church,Not specified,Kochi,Spiritual,,,9.965947,76.241066,Tourist destination in Kochi. Category: church
+Kumbakkarai Falls,Not specified,Kodaikanal,Nature,,,10.180369,77.530719,Tourist destination in Kodaikanal. Category: waterfall
+Kodaikanal Lake,Not specified,Kodaikanal,Nature,,,10.238114,77.489182,Tourist destination in Kodaikanal. Category: lake
+Kotilingeshwara Temple,Tamil Nadu,Kolar Gold Field,Spiritual,,,12.9952,78.2948,Tourist destination in Kolar Gold Field. Category: temple
+Chattrapati Shahu Maharaj Terminus,Not specified,Kolhapur,Other,,,16.70257,74.237695,Tourist destination in Kolhapur. Category: building
+Siddhagiri Gramjivan Museum,Not specified,Kolhapur,Heritage,,,16.702841,74.240533,Tourist destination in Kolhapur. Category: museum
+Mahalakshmi Temple,Not specified,Kolhapur,Spiritual,,,16.7,74.233333,Tourist destination in Kolhapur. Category: temple
+Panhala Fort,Not specified,Kolhapur,Heritage,,,16.808889,74.109167,Tourist destination in Kolhapur. Category: fortification
+Rajarshi Shahu Stadium,Not specified,Kolhapur,Adventure,,,16.693056,74.230278,Tourist destination in Kolhapur. Category: stadium
+Rankala Lake,Not specified,Kolhapur,Nature,,,16.689301,74.211657,Tourist destination in Kolhapur. Category: lake
+Ma Phire Elo,West Bengal,Kolkata,Heritage,,,22.50942,88.359042,Tourist destination in Kolkata. Category: museum
+Esplanade Mansions,West Bengal,Kolkata,Other,,,22.566506,88.348792,Tourist destination in Kolkata. Category: attraction
+Centre of International Modern Art,West Bengal,Kolkata,Heritage,,,22.531581,88.364694,Tourist destination in Kolkata. Category: museum
+Nehru Children'S Museum,West Bengal,Kolkata,Heritage,,,22.542478,88.347168,Tourist destination in Kolkata. Category: museum
+Netaji Bhawan,West Bengal,Kolkata,Heritage,,,22.537666,88.351056,Tourist destination in Kolkata. Category: museum
+Vidyasagar Setu,West Bengal,Kolkata,Other,,,22.556944,88.327778,Tourist destination in Kolkata. Category: bridge
+Dakshineswar Kali Temple,West Bengal,Kolkata,Spiritual,,,22.654802,88.357711,Tourist destination in Kolkata. Category: temple
+Eden Garden,West Bengal,Kolkata,Nature,,,22.564772,88.340809,Tourist destination in Kolkata. Category: park
+Nakhoda Masjid,West Bengal,Kolkata,Spiritual,,,22.577457,88.356259,Tourist destination in Kolkata. Category: mosque
+Chingrighata Flyover,West Bengal,Kolkata,Other,,,22.55807,88.41207,Tourist destination in Kolkata. Category: bridge
+Victoria Memorial,West Bengal,Kolkata,Heritage,,,22.544956,88.342554,Tourist destination in Kolkata. Category: museum
+Indian Museum,West Bengal,Kolkata,Heritage,,,22.557886,88.351127,Tourist destination in Kolkata. Category: museum
+Swami Vivekananda Statue,West Bengal,Kolkata,Heritage,,,22.5163,88.3662,Tourist destination in Kolkata. Category: statue
+Kishore Bharati Krirangan,West Bengal,Kolkata,Adventure,,,22.4942,88.3945,Tourist destination in Kolkata. Category: stadium
+Mohun Bagan Ground,West Bengal,Kolkata,Adventure,,,22.562035,88.342223,Tourist destination in Kolkata. Category: stadium
+Dayamoyee Kalibari,West Bengal,Kolkata,Spiritual,,,22.573056,88.363611,Tourist destination in Kolkata. Category: temple
+Rabindra Sarobar,West Bengal,Kolkata,Nature,,,22.513547,88.359385,Tourist destination in Kolkata. Category: lake
+Eden Gardens,West Bengal,Kolkata,Nature,,,22.564608,88.343264,Tourist destination in Kolkata. Category: garden
+Fort William,West Bengal,Kolkata,Heritage,,,22.554497,88.338013,Tourist destination in Kolkata. Category: fortification
+Alipore Zoological Gardens,West Bengal,Kolkata,Nature,,,22.537034,88.33167,Tourist destination in Kolkata. Category: zoo
+Jorasanko Thakur Bari,West Bengal,Kolkata,Heritage,,,22.585003,88.359049,Tourist destination in Kolkata. Category: palace
+Birla Industrial & Technological Museum,West Bengal,Kolkata,Heritage,,,22.534711,88.363755,Tourist destination in Kolkata. Category: museum
+Job Charnock'S Mausoleum,West Bengal,Kolkata,Heritage,,,22.570739,88.345882,Tourist destination in Kolkata. Category: monument
+M. P. Birla Planetarium,West Bengal,Kolkata,Other,,,22.545514,88.347316,Tourist destination in Kolkata. Category: building
+Bow Barracks,West Bengal,Kolkata,Other,,,22.569721,88.356327,Tourist destination in Kolkata. Category: neighbourhood
+Chatterjee International Center,West Bengal,Kolkata,Other,,,22.553253,88.348006,Tourist destination in Kolkata. Category: building
+Kalighat Kali Temple,West Bengal,Kolkata,Spiritual,,,22.52028,88.342088,Tourist destination in Kolkata. Category: temple
+Boat Museum,West Bengal,Kolkata,Heritage,,,22.581878,88.390821,Tourist destination in Kolkata. Category: museum
+Raja Rammohun Roy Memorial Museum,West Bengal,Kolkata,Heritage,,,22.583213,88.371247,Tourist destination in Kolkata. Category: museum
+"Hiland Park, Kolkata",West Bengal,Kolkata,Other,,,22.556843,88.35465,Tourist destination in Kolkata. Category: building
+Chinese Kali Mandir,West Bengal,Kolkata,Spiritual,,,22.547828,88.391297,Tourist destination in Kolkata. Category: temple
+Ahiritola Ghat,West Bengal,Kolkata,Other,,,22.596236,88.353325,Tourist destination in Kolkata. Category: attraction
+Calcutta Police Museum,West Bengal,Kolkata,Heritage,,,22.582723,88.373836,Tourist destination in Kolkata. Category: museum
+Metcalfe Hall,West Bengal,Kolkata,Other,,,22.571757,88.344667,Tourist destination in Kolkata. Category: building
+Nandan,West Bengal,Kolkata,Other,,,22.5421,88.3455,Tourist destination in Kolkata. Category: attraction
+Nicco Park,West Bengal,Kolkata,Nature,,,22.569183,88.421379,Tourist destination in Kolkata. Category: amusement-park
+Priya Cinema,West Bengal,Kolkata,Other,,,22.518,88.3544,Tourist destination in Kolkata. Category: attraction
+Rabindra Sarobar Stadium,West Bengal,Kolkata,Adventure,,,22.511667,88.352222,Tourist destination in Kolkata. Category: stadium
+Rabindra Sadan,West Bengal,Kolkata,Other,,,22.541907,88.344724,Tourist destination in Kolkata. Category: attraction
+"University College of Science, Technology & Agriculture",West Bengal,Kolkata,Other,,,22.578863,88.373147,Tourist destination in Kolkata. Category: university
+Ramakrishna Mission Institute of Culture,West Bengal,Kolkata,Other,,,22.515331,88.366427,Tourist destination in Kolkata. Category: attraction
+Sabarna Sangrahashala,West Bengal,Kolkata,Heritage,,,22.480296,88.311371,Tourist destination in Kolkata. Category: museum
+Howrah Bridge,West Bengal,Kolkata,Other,,,22.585155,88.346834,Tourist destination in Kolkata. Category: bridge
+Science City,West Bengal,Kolkata,Heritage,,,22.54006,88.395847,Tourist destination in Kolkata. Category: museum
+Shaheed Minar,West Bengal,Kolkata,Heritage,,,22.562907,88.349216,Tourist destination in Kolkata. Category: monument
+Belur Math,West Bengal,Kolkata,Spiritual,,,22.632656,88.356381,Tourist destination in Kolkata. Category: monastery
+Chandpal Ferry Ghat,West Bengal,Kolkata,Other,,,22.568385,88.340433,Tourist destination in Kolkata. Category: attraction
+Majerhat Setu,West Bengal,Kolkata,Other,,,22.518508,88.323785,Tourist destination in Kolkata. Category: bridge
+Writers' Building,West Bengal,Kolkata,Other,,,22.573841,88.348781,Tourist destination in Kolkata. Category: building
+Shringeri Sharadamba Temple,Kerala,Koppa,Spiritual,,,13.418,75.252,Tourist destination in Koppa. Category: temple
+Vardhangad Fort,Not specified,Koregaon,Heritage,,,17.725754,74.263721,Tourist destination in Koregaon. Category: fortification
+Seven Wonders Park,Madhya Pradesh,Kota,Nature,,,25.17983,75.84833,Tourist destination in Kota. Category: park
+Mullakkal Temple,Not specified,Kottayam,Spiritual,,,9.49721,76.3432,Tourist destination in Kottayam. Category: temple
+Thazhathangady Juma Masjid,Not specified,Kottayam,Spiritual,,,9.598474,76.50551,Tourist destination in Kottayam. Category: mosque
+Malayalapuzha Devi Temple,Not specified,Kozhencherry Taluk,Spiritual,,,9.288265,76.820317,Tourist destination in Kozhencherry Taluk. Category: temple
+Muringamangalam Sreemahadevar Temple,Not specified,Kozhencherry Taluk,Spiritual,,,9.232941,76.854417,Tourist destination in Kozhencherry Taluk. Category: temple
+Pazhassi Raja Archaeological Museum,Not specified,Kozhikode,Heritage,,,11.293595,75.778062,Tourist destination in Kozhikode. Category: museum
+Ems Stadium,Not specified,Kozhikode,Adventure,,,11.256405,75.785708,Tourist destination in Kozhikode. Category: stadium
+"Ramaswamy Temple, Kumbakonam",Not specified,Kudanthaiyan,Spiritual,,,10.957208,79.373659,Tourist destination in Kudanthaiyan. Category: temple
+Airavatesvara Temple,Not specified,Kudanthaiyan,Spiritual,,,10.948402,79.356604,Tourist destination in Kudanthaiyan. Category: temple
+Adi Kumbeswarar Temple,Not specified,Kudanthaiyan,Spiritual,,,10.958333,79.371111,Tourist destination in Kudanthaiyan. Category: temple
+Chakrapani Temple,Not specified,Kudanthaiyan,Spiritual,,,10.963351,79.37317,Tourist destination in Kudanthaiyan. Category: temple
+"Kasi Viswanathar Temple, Kumbakonam",Not specified,Kudanthaiyan,Spiritual,,,10.983333,79.366667,Tourist destination in Kudanthaiyan. Category: temple
+Someswarar Temple,Not specified,Kudanthaiyan,Spiritual,,,10.983333,79.366667,Tourist destination in Kudanthaiyan. Category: temple
+Swamimalai,Not specified,Kudanthaiyan,Other,,,10.964883,79.341079,Tourist destination in Kudanthaiyan. Category: locality
+Yiga Choeling Monastery,Bihar,Kurseong,Spiritual,,,27.007426,88.24636,Tourist destination in Kurseong. Category: monastery
+Kallanai Dam,Not specified,Lalgudi,Other,,,10.830228,78.818654,Tourist destination in Lalgudi. Category: attraction
+Poondi Madha Basilica,Not specified,Lalgudi,Spiritual,,,10.862123,78.940836,Tourist destination in Lalgudi. Category: church
+Zorawar Fort,Jammu and Kashmir,Leh,Other,,,34.158139,77.569889,Tourist destination in Leh. Category: attraction
+Central Asian Museum,Jammu and Kashmir,Leh,Heritage,,,34.165291,77.584771,Tourist destination in Leh. Category: museum
+Palace of Stok,Not specified,Leh,Heritage,,,34.073003,77.548578,Tourist destination in Leh. Category: palace
+Shanti Stupa,Jammu and Kashmir,Leh,Spiritual,,,34.17362,77.574999,Tourist destination in Leh. Category: religious-site
+Leh Palace,Jammu and Kashmir,Leh,Heritage,,,34.165978,77.586573,Tourist destination in Leh. Category: palace
+Phyang Monastery,Jammu and Kashmir,Leh,Heritage,,,34.186393,77.489772,Tourist destination in Leh. Category: fortification
+Chemrey Monastery,Not specified,Leh,Spiritual,,,33.966667,77.8,Tourist destination in Leh. Category: monastery
+Sankar Monastery,Jammu and Kashmir,Leh,Heritage,,,34.174167,77.585278,Tourist destination in Leh. Category: fortification
+Ekana Cricket Stadium,Not specified,Lucknow,Adventure,,,26.8112,81.0168,Tourist destination in Lucknow. Category: stadium
+Qaisar Bagh,Not specified,Lucknow,Nature,,,26.8381,80.9346,Tourist destination in Lucknow. Category: garden
+Sikandar Bagh,Not specified,Lucknow,Heritage,,,26.855602,80.952393,Tourist destination in Lucknow. Category: palace
+State Museum Lucknow,Not specified,Lucknow,Heritage,,,26.845278,80.954722,Tourist destination in Lucknow. Category: museum
+Nadan Mahal,Not specified,Lucknow,Heritage,,,26.854565,80.910887,Tourist destination in Lucknow. Category: monument
+Safed Baradari,Not specified,Lucknow,Other,,,26.85228,80.931908,Tourist destination in Lucknow. Category: building
+Vidhan Bhawan,Not specified,Lucknow,Other,,,26.870649,80.965277,Tourist destination in Lucknow. Category: building
+Jama Mosque,Not specified,Lucknow,Spiritual,,,26.8726,80.901012,Tourist destination in Lucknow. Category: mosque
+Bara Imambara,Not specified,Lucknow,Heritage,,,26.869104,80.912885,Tourist destination in Lucknow. Category: monument
+Chhota Imambara,Not specified,Lucknow,Spiritual,,,26.860556,80.915833,Tourist destination in Lucknow. Category: religious-site
+Ambedkar Memorial,Not specified,Lucknow,Nature,,,26.84793,80.97597,Tourist destination in Lucknow. Category: park
+Dhyan Chand Astroturf Stadium,Not specified,Lucknow,Adventure,,,26.930833,80.982778,Tourist destination in Lucknow. Category: stadium
+Dilkusha Kothi,Not specified,Lucknow,Other,,,26.831,80.954,Tourist destination in Lucknow. Category: attraction
+Lucknow Zoo,Not specified,Lucknow,Nature,,,26.845391,80.951699,Tourist destination in Lucknow. Category: zoo
+Musa Bagh,Not specified,Lucknow,Nature,,,26.889843,80.874238,Tourist destination in Lucknow. Category: garden
+Rumi Darwaza,Not specified,Lucknow,Heritage,,,26.871111,80.912222,Tourist destination in Lucknow. Category: monument
+"Jamia Masjid, Nathowal",Haryana,Ludhiana,Spiritual,,,30.611667,75.511667,Tourist destination in Ludhiana. Category: mosque
+Phillaur Fort,Haryana,Ludhiana,Heritage,,,31.011836,75.788934,Tourist destination in Ludhiana. Category: fortification
+Panjeta,Haryana,Ludhiana,Other,,,30.8953,76.0842,Tourist destination in Ludhiana. Category: village
+Madikeri Fort,Kerala,Madikeri,Heritage,,,12.420361,75.739249,Tourist destination in Madikeri. Category: fortification
+Thiru Aappanoor,Not specified,Madurai,Spiritual,,,9.9305,78.1228,Tourist destination in Madurai. Category: temple
+Meenakshi Temple,Not specified,Madurai,Spiritual,,,9.919722,78.119444,Tourist destination in Madurai. Category: temple
+Yanaimalai,Not specified,Madurai,Heritage,,,9.967477,78.192519,Tourist destination in Madurai. Category: archaeological-site
+Inmaiyil Nanmai Tharuvar Temple,Not specified,Madurai,Spiritual,,,9.915674,78.096876,Tourist destination in Madurai. Category: temple
+Thirumalai Nayakkar Mahal,Not specified,Madurai,Heritage,,,9.914804,78.12389,Tourist destination in Madurai. Category: palace
+Goripalayam Mosque,Not specified,Madurai,Spiritual,,,9.929764,78.129125,Tourist destination in Madurai. Category: mosque
+Kazimar Big Mosque,Not specified,Madurai,Spiritual,,,9.91275,78.1142,Tourist destination in Madurai. Category: mosque
+Thirupparamkunram Murugan Temple,Not specified,Madurai,Spiritual,,,9.879538,78.071034,Tourist destination in Madurai. Category: temple
+Rehala Falls,Himachal Pradesh,Manali,Nature,,,32.336362,77.218365,Tourist destination in Manali. Category: waterfall
+Rohtang Pass,Himachal Pradesh,Manali,Other,,,32.379931,77.251648,Tourist destination in Manali. Category: attraction
+Mandsaur Fort,Madhya Pradesh,Mandsaur,Other,,,24.063065,75.076519,Tourist destination in Mandsaur. Category: locality
+Pashupatinath Temple,Madhya Pradesh,Mandsaur,Spiritual,,,24.054722,75.072917,Tourist destination in Mandsaur. Category: temple
+Sultanpur National Park,Uttar Pradesh,Manesar,Nature,,,28.468123,76.891771,Tourist destination in Manesar. Category: park
+"Heritage Transport Museum, Gurgaon",Delhi,Manesar,Heritage,,,28.25293,76.924341,Tourist destination in Manesar. Category: museum
+Mangaladevi Temple,Kerala,Mangaluru,Spiritual,,,12.8491,74.8432,Tourist destination in Mangaluru. Category: temple
+"Rajagopalaswamy Temple, Mannargudi",Not specified,Mannargudi,Spiritual,,,10.667014,79.442477,Tourist destination in Mannargudi. Category: temple
+Silent Valley National Park,Not specified,Mannarkkad,Nature,,,11.069422,76.428002,Tourist destination in Mannarkkad. Category: park
+Krishna Janmasthan Temple Complex,Madhya Pradesh,Mathura,Spiritual,,,27.504748,77.669754,Tourist destination in Mathura. Category: temple
+"Government Museum, Mathura",Madhya Pradesh,Mathura,Heritage,,,27.492778,77.680556,Tourist destination in Mathura. Category: museum
+Vishram Ghat,Madhya Pradesh,Mathura,Other,,,27.502561,77.689069,Tourist destination in Mathura. Category: attraction
+Pobitora Wildlife Sanctuary,Assam,Mayong,Other,,,26.230785,92.055061,Tourist destination in Mayong. Category: attraction
+Kankaddar Nāla,Not specified,Mdawara,Other,,,24.340225,78.588641,Tourist destination in Mdawara. Category: attraction
+Tungareshwar Temple,Not specified,Mira-Bhayandar,Spiritual,,,19.41641,72.901537,Tourist destination in Mira-Bhayandar. Category: temple
+Ghodbunder Fort,Not specified,Mira-Bhayandar,Heritage,,,19.296648,72.888341,Tourist destination in Mira-Bhayandar. Category: fortification
+Aksa Beach,Not specified,Mira-Bhayandar,Nature,,,19.17706,72.795895,Tourist destination in Mira-Bhayandar. Category: beach
+"Solomon'S Temple, Aizawl Mizoram, India",Not specified,Mizoram,Spiritual,,,23.7479,92.6884,Tourist destination in Mizoram. Category: church
+Sukhna Lake Wildlife Sanctuary,Haryana,Mohali,Other,,,30.772946,76.85714,Tourist destination in Mohali. Category: attraction
+Fateh Burj,Haryana,Mohali,Heritage,,,30.7031,76.667,Tourist destination in Mohali. Category: museum
+Darbargadh No Tamrapatro,Not specified,Morbi,Other,,,22.817825,70.84118,Tourist destination in Morbi. Category: attraction
+Great Himalayan National Park,Himachal Pradesh,Mud,Nature,,,31.804288,77.951021,Tourist destination in Mud. Category: park
+Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,Not specified,Mumbai,Heritage,,,18.926877,72.832592,Tourist destination in Mumbai. Category: museum
+"Moghal Masjid, Mumbai",Not specified,Mumbai,Spiritual,,,18.95954,72.833434,Tourist destination in Mumbai. Category: mosque
+Mandapeshwar Caves,Not specified,Mumbai,Nature,,,19.244968,72.853746,Tourist destination in Mumbai. Category: cave
+"Siddhivinayak Temple, Mumbai",Not specified,Mumbai,Spiritual,,,19.01692,72.830409,Tourist destination in Mumbai. Category: temple
+Kanheri Caves,Not specified,Mumbai,Nature,,,19.20786,72.904807,Tourist destination in Mumbai. Category: cave
+"National Gallery of Modern Art, Mumbai",Not specified,Mumbai,Heritage,,,18.9258,72.8313,Tourist destination in Mumbai. Category: museum
+National Centre For the Performing Arts,Not specified,Mumbai,Other,,,18.924956,72.819766,Tourist destination in Mumbai. Category: building
+Mumbai Television Tower,Not specified,Mumbai,Heritage,,,18.99991,72.81646,Tourist destination in Mumbai. Category: tower
+Wankhede Stadium,Not specified,Mumbai,Adventure,,,18.938917,72.825722,Tourist destination in Mumbai. Category: stadium
+Madh Fort,Not specified,Mumbai,Heritage,,,19.13234,72.794785,Tourist destination in Mumbai. Category: fortification
+Taj Mahal Palace Hotel,Not specified,Mumbai,Other,,,18.92164,72.83317,Tourist destination in Mumbai. Category: building
+Nhava Sheva,Not specified,Mumbai,Other,,,18.95,72.95,Tourist destination in Mumbai. Category: building
+Bombay House,Not specified,Mumbai,Other,,,18.9318,72.8317,Tourist destination in Mumbai. Category: building
+Mumbai Trans Harbour Link,Not specified,Mumbai,Other,,,18.991792,72.957563,Tourist destination in Mumbai. Category: bridge
+Coastal Road,Not specified,Mumbai,Other,,,18.9991,72.8105,Tourist destination in Mumbai. Category: bridge
+Film City,Not specified,Mumbai,Other,,,19.160752,72.887647,Tourist destination in Mumbai. Category: building
+Bandra–Worli Sea Link,Not specified,Mumbai,Other,,,19.03648,72.81725,Tourist destination in Mumbai. Category: bridge
+Royal Opera House,Not specified,Mumbai,Other,,,18.956111,72.815556,Tourist destination in Mumbai. Category: opera-house
+Mahim Fort,Not specified,Mumbai,Heritage,,,19.042037,72.838187,Tourist destination in Mumbai. Category: fortification
+Mani Bhavan,Not specified,Mumbai,Heritage,,,18.95989,72.811498,Tourist destination in Mumbai. Category: museum
+Nariman House,Not specified,Mumbai,Other,,,18.916517,72.827682,Tourist destination in Mumbai. Category: building
+"Jama Masjid, Mumbai",Not specified,Mumbai,Spiritual,,,18.9491,72.8322,Tourist destination in Mumbai. Category: mosque
+Bombay Castle,Not specified,Mumbai,Heritage,,,18.931944,72.837778,Tourist destination in Mumbai. Category: fortification
+Chhatrapati Shivaji Maharaj International Airport,Not specified,Mumbai,Other,,,19.088611,72.868056,Tourist destination in Mumbai. Category: building
+Castella de Aguada,Not specified,Mumbai,Heritage,,,19.042061,72.818608,Tourist destination in Mumbai. Category: fortification
+Lodha World One,Not specified,Mumbai,Other,,,19.002541,72.82653,Tourist destination in Mumbai. Category: building
+Cooperage Ground,Not specified,Mumbai,Adventure,,,18.924449,72.828734,Tourist destination in Mumbai. Category: stadium
+Worli Fort,Not specified,Mumbai,Heritage,,,19.023702,72.816769,Tourist destination in Mumbai. Category: fortification
+Haji Ali Dargah,Not specified,Mumbai,Spiritual,,,18.9825,72.8088,Tourist destination in Mumbai. Category: religious-site
+Mahalaxmi Racecourse,Not specified,Mumbai,Other,,,18.984,72.82,Tourist destination in Mumbai. Category: attraction
+Flora Fountain,Not specified,Mumbai,Heritage,,,18.9325,72.8317,Tourist destination in Mumbai. Category: statue
+"General Post Office, Mumbai",Not specified,Mumbai,Other,,,18.938767,72.837039,Tourist destination in Mumbai. Category: building
+Hanging Gardens of Mumbai,Not specified,Mumbai,Nature,,,18.956724,72.804937,Tourist destination in Mumbai. Category: garden
+Horniman Circle Gardens,Not specified,Mumbai,Nature,,,18.932,72.835024,Tourist destination in Mumbai. Category: garden
+Madh Island,Not specified,Mumbai,Other,,,19.148491,72.789161,Tourist destination in Mumbai. Category: building
+Jinnah'S People'S Memorial Hall,Not specified,Mumbai,Heritage,,,18.958913,72.813033,Tourist destination in Mumbai. Category: memorial
+Jogeshwari Caves,Not specified,Mumbai,Nature,,,19.138882,72.857172,Tourist destination in Mumbai. Category: cave
+Jijamata Udyaan,Not specified,Mumbai,Nature,,,18.978115,72.836746,Tourist destination in Mumbai. Category: zoo
+Sanjay Gandhi National Park,Not specified,Mumbai,Nature,,,19.25,72.9167,Tourist destination in Mumbai. Category: park
+India Tower,Not specified,Mumbai,Other,,,18.950159,72.821348,Tourist destination in Mumbai. Category: building
+Elephanta Caves,Not specified,Mumbai,Nature,,,18.963347,72.931486,Tourist destination in Mumbai. Category: cave
+Hdfc Bank Malabar Hill Ec Branch,Not specified,Mumbai,Other,,,18.954027,72.804263,Tourist destination in Mumbai. Category: attraction
+Mahakali Caves,Not specified,Mumbai,Nature,,,19.130609,72.873816,Tourist destination in Mumbai. Category: cave
+"Mantralaya, Mumbai",Not specified,Mumbai,Other,,,18.927226,72.826931,Tourist destination in Mumbai. Category: building
+Marvé Beach,Not specified,Mumbai,Nature,,,19.197349,72.796764,Tourist destination in Mumbai. Category: beach
+Mazagon Fort,Not specified,Mumbai,Other,,,18.967037,72.8429,Tourist destination in Mumbai. Category: attraction
+Metro Inox,Not specified,Mumbai,Other,,,18.942944,72.828797,Tourist destination in Mumbai. Category: attraction
+Nehru Science Centre,Not specified,Mumbai,Heritage,,,18.990633,72.818669,Tourist destination in Mumbai. Category: museum
+Portuguese Church,Not specified,Mumbai,Spiritual,,,19.018333,72.836389,Tourist destination in Mumbai. Category: church
+Prithvi Theatre,Not specified,Mumbai,Other,,,19.10622,72.82572,Tourist destination in Mumbai. Category: theatre
+Riwa Fort,Not specified,Mumbai,Heritage,,,19.05099,72.860165,Tourist destination in Mumbai. Category: fortification
+Sewri Fort,Not specified,Mumbai,Other,,,19.000668,72.860126,Tourist destination in Mumbai. Category: attraction
+Sion Hillock Fort,Not specified,Mumbai,Heritage,,,19.046592,72.867682,Tourist destination in Mumbai. Category: fortification
+"St. Thomas Cathedral, Mumbai",Not specified,Mumbai,Other,,,18.9317,72.8336,Tourist destination in Mumbai. Category: cathedral
+Global Vipassana Pagoda,Not specified,Mumbai,Other,,,19.228424,72.805861,Tourist destination in Mumbai. Category: attraction
+Cathedral of the Holy Name,Not specified,Mumbai,Other,,,18.923359,72.83067,Tourist destination in Mumbai. Category: cathedral
+Munger Fort,Bihar,Munger,Heritage,,,25.3803,86.4658,Tourist destination in Munger. Category: fortification
+Munger Ganga Bridge (Shri Krishna Setu),Bihar,Munger,Other,,,25.39843,86.45769,Tourist destination in Munger. Category: bridge
+Eravikulam National Park,Not specified,Munnar,Nature,,,10.145391,77.036635,Tourist destination in Munnar. Category: park
+Munnar Tea Museum,Not specified,Munnar,Heritage,,,10.094225,77.050654,Tourist destination in Munnar. Category: museum
+Lockhart Tea Museum,Not specified,Munnar,Heritage,,,10.0543,77.1091,Tourist destination in Munnar. Category: museum
+Kempty Falls,Uttar Pradesh,Mussoorie,Nature,,,30.487834,78.036693,Tourist destination in Mussoorie. Category: waterfall
+Chamundeshwari Temple,Tamil Nadu,Mysore,Spiritual,,,12.272475,76.670703,Tourist destination in Mysore. Category: temple
+Lalitha Mahal,Tamil Nadu,Mysore,Heritage,,,12.298,76.693,Tourist destination in Mysore. Category: palace
+"St. Philomena'S Church, Mysore",Tamil Nadu,Mysore,Other,,,12.321121,76.658322,Tourist destination in Mysore. Category: cathedral
+Daria Daulat Bagh,Tamil Nadu,Mysore,Heritage,,,12.420043,76.696861,Tourist destination in Mysore. Category: palace
+C V Rangacharlu Memorial Hall,Tamil Nadu,Mysore,Other,,,12.309795,76.655879,Tourist destination in Mysore. Category: building
+Mysore Zoo,Tamil Nadu,Mysore,Nature,,,12.3008,76.6677,Tourist destination in Mysore. Category: zoo
+Folk Lore Museum Mysore,Tamil Nadu,Mysore,Heritage,,,12.313363,76.62243,Tourist destination in Mysore. Category: museum
+Jaganmohan Palace,Tamil Nadu,Mysore,Heritage,,,12.306787,76.649683,Tourist destination in Mysore. Category: palace
+Mahishasura,Tamil Nadu,Mysore,Other,,,12.275073,76.670959,Tourist destination in Mysore. Category: attraction
+Regional Museum of Natural History Mysore,Tamil Nadu,Mysore,Heritage,,,12.305853,76.6741,Tourist destination in Mysore. Category: museum
+Colonel Bailey'S Dungeon,Kerala,Mysore,Other,,,12.426713,76.678719,Tourist destination in Mysore. Category: attraction
+Kanyakumari,Not specified,Nagercoil,Other,,,8.171395,77.430215,Tourist destination in Nagercoil. Category: town
+Udayagiri Fort,Not specified,Nagercoil,Heritage,,,8.242592,77.334909,Tourist destination in Nagercoil. Category: fortification
+Padmanabhapuram Palace,Not specified,Nagercoil,Heritage,,,8.250749,77.326592,Tourist destination in Nagercoil. Category: palace
+Deekshabhoomi,Telangana,Nagpur,Other,,,21.128056,79.066944,Tourist destination in Nagpur. Category: attraction
+Nagpur Central Museum,Telangana,Nagpur,Heritage,,,21.150965,79.078066,Tourist destination in Nagpur. Category: museum
+Sitabuldi Fort,Telangana,Nagpur,Heritage,,,21.148826,79.084365,Tourist destination in Nagpur. Category: fortification
+Hangseshwari Temple,West Bengal,Naihati,Spiritual,,,22.964285,88.399796,Tourist destination in Naihati. Category: temple
+Hooghly Imambara,West Bengal,Naihati,Spiritual,,,22.908318,88.399842,Tourist destination in Naihati. Category: religious-site
+Bhimtal Lake,Uttar Pradesh,Nainital,Nature,,,29.345659,79.559319,Tourist destination in Nainital. Category: lake
+Namakkal Fort,Not specified,Namakkal,Heritage,,,11.222665,78.16524,Tourist destination in Namakkal. Category: fortification
+Suryadhar Lake,Uttar Pradesh,Narendra Nagar,Nature,,,30.250936,78.256497,Tourist destination in Narendra Nagar. Category: lake
+Lakshman Jhula,Uttar Pradesh,Narendra Nagar,Other,,,30.126164,78.330798,Tourist destination in Narendra Nagar. Category: bridge
+Dy Patil Stadium,Not specified,Navi Mumbai,Adventure,,,19.041944,73.026667,Tourist destination in Navi Mumbai. Category: stadium
+Belapur Fort,Not specified,Navi Mumbai,Heritage,,,19.005524,73.028403,Tourist destination in Navi Mumbai. Category: fortification
+Buchireddypalem Mandal,Andhra Pradesh,Nellore,Other,,,14.544688,79.881187,Tourist destination in Nellore. Category: attraction
+Parliament House,Delhi,New Delhi,Other,,,28.617222,77.21,Tourist destination in New Delhi. Category: building
+East Delhi District,Delhi,New Delhi,Other,,,28.601825,77.266262,Tourist destination in New Delhi. Category: attraction
+National Police Memorial Museum,Delhi,New Delhi,Heritage,,,28.603501,77.194018,Tourist destination in New Delhi. Category: museum
+Fatehpuri Masjid,Delhi,New Delhi,Spiritual,,,28.656649,77.222771,Tourist destination in New Delhi. Category: mosque
+"Statue of Mahatma Gandhi, Parliament of India",Delhi,New Delhi,Heritage,,,28.617899,77.209002,Tourist destination in New Delhi. Category: statue
+National Rail Museum,Delhi,New Delhi,Heritage,,,28.58511,77.18101,Tourist destination in New Delhi. Category: museum
+Jawaharlal Nehru University,Delhi,New Delhi,Other,,,28.545803,77.170344,Tourist destination in New Delhi. Category: university
+Purana Qila,Delhi,New Delhi,Heritage,,,28.609224,77.244301,Tourist destination in New Delhi. Category: fortification
+Bara Gumbad,Delhi,New Delhi,Spiritual,,,28.593096,77.219679,Tourist destination in New Delhi. Category: mosque
+Raj Ghat and Associated Memorials,Delhi,New Delhi,Heritage,,,28.640621,77.2495,Tourist destination in New Delhi. Category: monument
+Chanakyapuri,Delhi,New Delhi,Other,,,28.609574,77.243737,Tourist destination in New Delhi. Category: neighbourhood
+National Gallery of Modern Art,Delhi,New Delhi,Heritage,,,28.609769,77.236786,Tourist destination in New Delhi. Category: museum
+National Museum,Delhi,New Delhi,Heritage,,,28.611811,77.219262,Tourist destination in New Delhi. Category: museum
+Gandhi Smriti,Delhi,New Delhi,Heritage,,,28.601854,77.21439,Tourist destination in New Delhi. Category: museum
+Qila Rai Pithora,Delhi,New Delhi,Heritage,,,28.519233,77.193087,Tourist destination in New Delhi. Category: fortification
+India International Centre,Delhi,New Delhi,Other,,,28.593705,77.222636,Tourist destination in New Delhi. Category: attraction
+Old Parliament House,Delhi,New Delhi,Other,,,28.617189,77.208084,Tourist destination in New Delhi. Category: building
+Sunder Nursery,Delhi,New Delhi,Nature,,,28.596874,77.245339,Tourist destination in New Delhi. Category: park
+Diwan-I-Khas,Delhi,New Delhi,Other,,,28.656397,77.243546,Tourist destination in New Delhi. Category: building
+Khas Mahal,Delhi,New Delhi,Heritage,,,28.656093,77.243602,Tourist destination in New Delhi. Category: palace
+Mumtaz Mahal (Red Fort),Delhi,New Delhi,Other,,,28.654516,77.243435,Tourist destination in New Delhi. Category: attraction
+Rang Mahal (Red Fort),Delhi,New Delhi,Other,,,28.655528,77.243473,Tourist destination in New Delhi. Category: building
+National War Memorial,Delhi,New Delhi,Heritage,,,28.612772,77.233053,Tourist destination in New Delhi. Category: museum
+Akshardham,Delhi,New Delhi,Spiritual,,,28.612673,77.277262,Tourist destination in New Delhi. Category: temple
+Qutb Minar,Delhi,New Delhi,Heritage,,,28.524475,77.185521,Tourist destination in New Delhi. Category: tower
+Sulabh International Museum of Toilets,Delhi,New Delhi,Heritage,,,28.5966,77.0808,Tourist destination in New Delhi. Category: museum
+Humayun'S Tomb,Delhi,New Delhi,Heritage,,,28.593285,77.250749,Tourist destination in New Delhi. Category: monument
+Jaipur Column,Delhi,New Delhi,Heritage,,,28.614248,77.201801,Tourist destination in New Delhi. Category: monument
+Qila-I-Kuhna Mosque,Delhi,New Delhi,Spiritual,,,28.609541,77.244865,Tourist destination in New Delhi. Category: mosque
+"7, Lok Kalyan Marg",Delhi,New Delhi,Other,,,28.6,77.2,Tourist destination in New Delhi. Category: building
+Tomb of Sikandar Lodi,Delhi,New Delhi,Heritage,,,28.596268,77.221553,Tourist destination in New Delhi. Category: monument
+Shish Gumbad,Delhi,New Delhi,Heritage,,,28.593819,77.220205,Tourist destination in New Delhi. Category: monument
+Connaught Place,Delhi,New Delhi,Other,,,28.634304,77.219163,Tourist destination in New Delhi. Category: neighbourhood
+Gurudwara Bangla Sahib,Delhi,New Delhi,Spiritual,,,28.6267,77.2089,Tourist destination in New Delhi. Category: temple
+Laxminarayan Temple,Delhi,New Delhi,Spiritual,,,28.632778,77.198889,Tourist destination in New Delhi. Category: temple
+India Gate,Delhi,New Delhi,Heritage,,,28.612933,77.229493,Tourist destination in New Delhi. Category: monument
+Tughlaqabad Fort,Delhi,New Delhi,Heritage,,,28.510917,77.262354,Tourist destination in New Delhi. Category: fortification
+Ahinsa Sthal,Delhi,New Delhi,Spiritual,,,28.521025,77.18987,Tourist destination in New Delhi. Category: temple
+Shankar'S International Dolls Museum,Delhi,New Delhi,Heritage,,,28.630537,77.241444,Tourist destination in New Delhi. Category: museum
+Bharat Mandapam,Delhi,New Delhi,Other,,,28.616813,77.243359,Tourist destination in New Delhi. Category: square
+Amar Jawan Jyoti,Delhi,New Delhi,Heritage,,,28.612762,77.23305,Tourist destination in New Delhi. Category: monument
+Hazrat Nizamuddin Dargah,Delhi,New Delhi,Spiritual,,,28.591358,77.241943,Tourist destination in New Delhi. Category: religious-site
+Sher Shah Suri Gate,Delhi,New Delhi,Heritage,,,28.60868,77.238979,Tourist destination in New Delhi. Category: monument
+National Gandhi Museum,Delhi,New Delhi,Heritage,,,28.638908,77.245911,Tourist destination in New Delhi. Category: museum
+Indira Gandhi Indoor Stadium,Delhi,New Delhi,Adventure,,,28.631111,77.249444,Tourist destination in New Delhi. Category: stadium
+Major Dhyan Chand National Stadium,Delhi,New Delhi,Adventure,,,28.6125,77.237222,Tourist destination in New Delhi. Category: stadium
+Naini Lake,Uttar Pradesh,New Delhi,Nature,,,28.70784,77.194352,Tourist destination in New Delhi. Category: lake
+Thyagaraj Sports Complex,Delhi,New Delhi,Other,,,28.576944,77.216667,Tourist destination in New Delhi. Category: attraction
+Talkatora Stadium,Delhi,New Delhi,Adventure,,,28.622456,77.192925,Tourist destination in New Delhi. Category: stadium
+Siri Fort Sports Complex,Delhi,New Delhi,Adventure,,,28.552083,77.219255,Tourist destination in New Delhi. Category: stadium
+Teen Murti Bhavan,Delhi,New Delhi,Heritage,,,28.602594,77.198781,Tourist destination in New Delhi. Category: museum
+"National Handicrafts and Handlooms Museum, New Delhi",Delhi,New Delhi,Heritage,,,28.613551,77.24232,Tourist destination in New Delhi. Category: museum
+Tomb of Safdar Jung,Delhi,New Delhi,Heritage,,,28.589555,77.210549,Tourist destination in New Delhi. Category: monument
+Tomb of Adham Khan,Delhi,New Delhi,Heritage,,,28.52308,77.182031,Tourist destination in New Delhi. Category: monument
+Tomb of Mohammed Shah,Delhi,New Delhi,Heritage,,,28.591009,77.218285,Tourist destination in New Delhi. Category: monument
+Munda Gumbad,Delhi,New Delhi,Other,,,28.556695,77.191716,Tourist destination in New Delhi. Category: building
+Subz Burz,Delhi,New Delhi,Heritage,,,28.593109,77.243617,Tourist destination in New Delhi. Category: monument
+Tughlaqabad Old City Walls,Delhi,New Delhi,Heritage,,,28.510917,77.262354,Tourist destination in New Delhi. Category: fortification
+Hauz Khas Complex,Delhi,New Delhi,Other,,,28.555857,77.189366,Tourist destination in New Delhi. Category: attraction
+Ambedkar Stadium,Delhi,New Delhi,Adventure,,,28.638995,77.242353,Tourist destination in New Delhi. Category: stadium
+Red Fort,Delhi,New Delhi,Heritage,,,28.656159,77.24102,Tourist destination in New Delhi. Category: fortification
+Agrasen Ki Baoli,Delhi,New Delhi,Other,,,28.626068,77.225011,Tourist destination in New Delhi. Category: attraction
+Cathedral Church of the Redemption,Delhi,New Delhi,Other,,,28.618038,77.201978,Tourist destination in New Delhi. Category: cathedral
+Daryaganj,Delhi,New Delhi,Other,,,28.664487,77.238883,Tourist destination in New Delhi. Category: neighbourhood
+Iron Pillar of Delhi,Delhi,New Delhi,Heritage,,,28.524746,77.184966,Tourist destination in New Delhi. Category: archaeological-site
+Flagstaff Tower,Uttar Pradesh,New Delhi,Heritage,,,28.687905,77.218177,Tourist destination in New Delhi. Category: tower
+Garden of Five Senses,Delhi,New Delhi,Nature,,,28.513403,77.197523,Tourist destination in New Delhi. Category: park
+Gurdwara Rakab Ganj Sahib,Delhi,New Delhi,Spiritual,,,28.618187,77.204813,Tourist destination in New Delhi. Category: temple
+Hansraj College,Uttar Pradesh,New Delhi,Other,,,28.678889,77.210278,Tourist destination in New Delhi. Category: attraction
+Hijron Ka Khanqah,Delhi,New Delhi,Spiritual,,,28.521944,77.178611,Tourist destination in New Delhi. Category: mosque
+National Police Memorial,Delhi,New Delhi,Heritage,,,28.603282,77.193805,Tourist destination in New Delhi. Category: memorial
+Jahaz Mahal,Delhi,New Delhi,Other,,,28.514223,77.17846,Tourist destination in New Delhi. Category: building
+Jamia Hamdard,Delhi,New Delhi,Other,,,28.515227,77.250528,Tourist destination in New Delhi. Category: university
+Param Yodha Sthal,Delhi,New Delhi,Heritage,,,28.615016,77.231222,Tourist destination in New Delhi. Category: monument
+Prime Ministers Museum & Library,Delhi,New Delhi,Heritage,,,28.602608,77.198774,Tourist destination in New Delhi. Category: museum
+Alai Minar,Delhi,New Delhi,Other,,,28.525848,77.185292,Tourist destination in New Delhi. Category: attraction
+Khan Market,Delhi,New Delhi,Other,,,28.600155,77.226959,Tourist destination in New Delhi. Category: building
+New Delhi General Post Office.,Delhi,New Delhi,Other,,,28.626611,77.206639,Tourist destination in New Delhi. Category: building
+National Charkha Museum,Delhi,New Delhi,Heritage,,,28.631524,77.217137,Tourist destination in New Delhi. Category: museum
+Tomb of Isa Khan,Delhi,New Delhi,Heritage,,,28.592289,77.246214,Tourist destination in New Delhi. Category: monument
+Rashtrapati Bhavan,Delhi,New Delhi,Other,,,28.614359,77.199589,Tourist destination in New Delhi. Category: building
+Maulana Azad Medical College,Delhi,New Delhi,Other,,,28.63574,77.237882,Tourist destination in New Delhi. Category: university
+Mutiny Memorial,Uttar Pradesh,New Delhi,Heritage,,,28.671387,77.210636,Tourist destination in New Delhi. Category: monument
+"National Law University, Delhi",Uttar Pradesh,New Delhi,Other,,,28.5998,77.0234,Tourist destination in New Delhi. Category: university
+Parliament Museum,Delhi,New Delhi,Heritage,,,28.618658,77.207172,Tourist destination in New Delhi. Category: museum
+Rail Bhavan,Delhi,New Delhi,Other,,,28.615889,77.211399,Tourist destination in New Delhi. Category: attraction
+Rajon Ki Baoli,Delhi,New Delhi,Other,,,28.520272,77.183414,Tourist destination in New Delhi. Category: attraction
+Ramlila Maidan,Delhi,New Delhi,Other,,,28.641892,77.230698,Tourist destination in New Delhi. Category: square
+Rashtrapati Bhavan Museum,Delhi,New Delhi,Heritage,,,28.618813,77.196734,Tourist destination in New Delhi. Category: museum
+Spm Swimming Pool Complex,Delhi,New Delhi,Other,,,28.622456,77.192925,Tourist destination in New Delhi. Category: attraction
+Talkatora Gardens,Delhi,New Delhi,Nature,,,28.623361,77.195013,Tourist destination in New Delhi. Category: garden
+Tomb of Balban,Delhi,New Delhi,Heritage,,,28.519678,77.18882,Tourist destination in New Delhi. Category: monument
+Vigyan Bhavan,Delhi,New Delhi,Other,,,28.610769,77.220713,Tourist destination in New Delhi. Category: attraction
+Zafar Mahal,Delhi,New Delhi,Heritage,,,28.518978,77.179729,Tourist destination in New Delhi. Category: palace
+Jawaharlal Nehru Stadium,Delhi,New Delhi,Adventure,,,28.582873,77.23438,Tourist destination in New Delhi. Category: stadium
+Lotus Temple,Delhi,New Delhi,Spiritual,,,28.553492,77.258826,Tourist destination in New Delhi. Category: temple
+Teak Museum,Not specified,Nilambur,Heritage,,,11.30009,76.25041,Tourist destination in Nilambur. Category: museum
+Pin Valley National Park,Himachal Pradesh,Nirmand,Nature,,,31.574167,77.588889,Tourist destination in Nirmand. Category: park
+Jaipur House,Delhi,Noida,Other,,,28.610263,77.23409,Tourist destination in Noida. Category: building
+Delhi Gate,Delhi,Noida,Heritage,,,28.652103,77.240257,Tourist destination in Noida. Category: monument
+Indraprastha Park,Delhi,Noida,Nature,,,28.602383,77.25342,Tourist destination in Noida. Category: park
+"Sacred Heart Cathedral, Ooty",Not specified,Ooty,Other,,,11.416944,76.708333,Tourist destination in Ooty. Category: cathedral
+Doddabetta,Not specified,Ooty,Nature,,,11.40202,76.735979,Tourist destination in Ooty. Category: mountain
+Nilgiri Mountain Railway,Not specified,Ooty,Heritage,,,11.406042,76.696505,Tourist destination in Ooty. Category: museum
+Ooty Lake,Not specified,Ooty,Nature,,,11.405959,76.688221,Tourist destination in Ooty. Category: lake
+Udagamandalam Railway Station,Not specified,Ooty,Other,,,11.4053,76.6962,Tourist destination in Ooty. Category: building
+Government Botanical Garden,Not specified,Ooty,Nature,,,11.418752,76.711038,Tourist destination in Ooty. Category: botanical-garden
+Orchha Fort Complex,Madhya Pradesh,Orchha,Heritage,,,25.349909,78.644386,Tourist destination in Orchha. Category: fortification
+"Chaturbhuj Temple, Orchha",Madhya Pradesh,Orchha,Spiritual,,,25.3501,78.6399,Tourist destination in Orchha. Category: temple
+"Jahangir Mahal, Orchha",Madhya Pradesh,Orchha,Heritage,,,25.350641,78.644233,Tourist destination in Orchha. Category: fortification
+Raja Mahal,Madhya Pradesh,Orchha,Heritage,,,25.350187,78.643264,Tourist destination in Orchha. Category: palace
+"Orchha Chhatris, Bundelkhand",Madhya Pradesh,Orchha,Other,,,25.344631,78.638129,Tourist destination in Orchha. Category: attraction
+Dharashiv Caves,Karnataka,Osmanabad,Nature,,,18.194619,76.009418,Tourist destination in Osmanabad. Category: cave
+Kaldurg Fort,Not specified,Palghar,Heritage,,,19.691304,72.81711,Tourist destination in Palghar. Category: fortification
+Shirgaon Fort,Not specified,Palghar,Heritage,,,19.696226,72.713518,Tourist destination in Palghar. Category: fortification
+Pali,Gujarat,Pali,Other,,,25.770838,73.322244,Tourist destination in Pali. Category: town
+Fort Reis Magos,Not specified,Panaji,Heritage,,,15.496508,73.809132,Tourist destination in Panaji. Category: fortification
+Kala Academy,Not specified,Panaji,Other,,,15.494205,73.817406,Tourist destination in Panaji. Category: attraction
+Goa State Central Library,Not specified,Panaji,Other,,,15.494,73.833,Tourist destination in Panaji. Category: library
+Chorão,Not specified,Panaji,Nature,,,15.513047,73.870415,Tourist destination in Panaji. Category: island
+"Sunaparanta, Goa Centre For the Arts",Not specified,Panaji,Heritage,,,15.493888,73.827548,Tourist destination in Panaji. Category: museum
+Kumhrar,Bihar,Patna,Heritage,,,25.598889,85.184722,Tourist destination in Patna. Category: archaeological-site
+Patna Museum,Bihar,Patna,Heritage,,,25.612727,85.133273,Tourist destination in Patna. Category: museum
+Buddha Smriti Park,Bihar,Patna,Nature,,,25.606714,85.13615,Tourist destination in Patna. Category: park
+Patna Secretariat,Bihar,Patna,Other,,,25.3619,85.659,Tourist destination in Patna. Category: attraction
+Bihar Museum,Bihar,Patna,Heritage,,,25.60807,85.120992,Tourist destination in Patna. Category: museum
+Maurya Lok,Bihar,Patna,Other,,,25.609444,85.134445,Tourist destination in Patna. Category: building
+Takht Sri Patna Sahib,Bihar,Patna,Spiritual,,,25.596062,85.230063,Tourist destination in Patna. Category: temple
+Golghar,Bihar,Patna,Other,,,25.620293,85.13947,Tourist destination in Patna. Category: attraction
+Sabhyata Dwar,Bihar,Patna,Other,,,25.621935,85.143886,Tourist destination in Patna. Category: building
+Gandhi Maidan,Bihar,Patna,Other,,,25.607992,85.167517,Tourist destination in Patna. Category: square
+Padri Ki Haveli,Bihar,Patna,Spiritual,,,25.601163,85.219338,Tourist destination in Patna. Category: church
+Pathar Ki Masjid,Bihar,Patna,Spiritual,,,25.611,85.144,Tourist destination in Patna. Category: mosque
+Shrikrishna Science Centre,Bihar,Patna,Heritage,,,25.616487,85.141112,Tourist destination in Patna. Category: museum
+Ponda Fort,Not specified,Ponda,Other,,,15.412687,73.989372,Tourist destination in Ponda. Category: attraction
+Safa Masjid,Not specified,Ponda,Spiritual,,,15.406407,73.999984,Tourist destination in Ponda. Category: mosque
+Mangueshi Temple,Not specified,Ponda,Spiritual,,,15.444905,73.966382,Tourist destination in Ponda. Category: temple
+Manakula Vinayagar Temple,Not specified,Pondicherry,Spiritual,,,11.935839,79.833682,Tourist destination in Pondicherry. Category: temple
+Our Lady of Angels Church,Not specified,Pondicherry,Spiritual,,,11.93008,79.834344,Tourist destination in Pondicherry. Category: church
+Aayi Mandapam,Not specified,Pondicherry,Heritage,,,11.9331,79.8342,Tourist destination in Pondicherry. Category: monument
+Arikamedu,Puducherry,Pondicherry,Heritage,,,11.902315,79.819956,Tourist destination in Pondicherry. Category: archaeological-site
+Pondicherry Museum,Not specified,Pondicherry,Heritage,,,11.934487,79.834855,Tourist destination in Pondicherry. Category: museum
+Basilica of the Sacred Heart of Jesus,Puducherry,Pondicherry,Spiritual,,,11.92626,79.82704,Tourist destination in Pondicherry. Category: church
+Misri Masjid,Not specified,Ponnani,Spiritual,,,10.777849,75.922576,Tourist destination in Ponnani. Category: mosque
+Ponnani Juma Masjid,Not specified,Ponnani,Spiritual,,,10.778712,75.923475,Tourist destination in Ponnani. Category: mosque
+Fort Geldria,Andhra Pradesh,Ponneri,Heritage,,,13.419497,80.316427,Tourist destination in Ponneri. Category: fortification
+"Kirti Mandir, Porbandar",Not specified,Porbandar,Heritage,,,21.641336,69.601032,Tourist destination in Porbandar. Category: museum
+Porbandar Bird Sanctuary,Not specified,Porbandar,Other,,,21.637298,69.618216,Tourist destination in Porbandar. Category: attraction
+Belha Devi Temple,Not specified,"Pratapgarh, Uttar Pradesh",Spiritual,,,25.93398,82.001964,"Tourist destination in Pratapgarh, Uttar Pradesh. Category: temple"
+New Yamuna Bridge,Not specified,Prayagraj,Other,,,25.42394,81.861341,Tourist destination in Prayagraj. Category: bridge
+Khusro Bagh,Not specified,Prayagraj,Nature,,,25.443099,81.820593,Tourist destination in Prayagraj. Category: garden
+Allahabad Museum,Not specified,Prayagraj,Heritage,,,25.45508,81.846153,Tourist destination in Prayagraj. Category: museum
+Allahabad Pillar,Not specified,Prayagraj,Other,,,25.431286,81.875125,Tourist destination in Prayagraj. Category: attraction
+Anand Bhavan,Not specified,Prayagraj,Heritage,,,25.459376,81.859981,Tourist destination in Prayagraj. Category: museum
+Old Naini Bridge.,Not specified,Prayagraj,Other,,,25.424561,81.850116,Tourist destination in Prayagraj. Category: bridge
+Allahabad Fort,Not specified,Prayagraj,Heritage,,,25.43,81.876667,Tourist destination in Prayagraj. Category: fortification
+Raja Dinkar Kelkar Museum,Not specified,Pune,Heritage,,,18.510751,73.854431,Tourist destination in Pune. Category: museum
+Shree Shiv Chhatrapati Sports Complex,Not specified,Pune,Other,,,18.574745,73.760984,Tourist destination in Pune. Category: attraction
+Shaniwar Wada,Not specified,Pune,Heritage,,,18.519167,73.855278,Tourist destination in Pune. Category: fortification
+Yerawada Central Jail,Not specified,Pune,Other,,,18.564575,73.889651,Tourist destination in Pune. Category: attraction
+Pune-Okayama Friendship Garden,Not specified,Pune,Nature,,,18.491306,73.836806,Tourist destination in Pune. Category: garden
+Shivajinagar Railway Station,Not specified,Pune,Other,,,18.531738,73.851147,Tourist destination in Pune. Category: building
+Joshi'S Museum of Miniature Railway,Not specified,Pune,Heritage,,,18.501412,73.822364,Tourist destination in Pune. Category: museum
+Mahatma Phule Museum,Not specified,Pune,Heritage,,,18.523629,73.845213,Tourist destination in Pune. Category: museum
+Aga Khan Palace,Not specified,Pune,Heritage,,,18.552403,73.901522,Tourist destination in Pune. Category: palace
+Yashwantrao Chavan Natya Gruha,Not specified,Pune,Other,,,18.502979,73.812327,Tourist destination in Pune. Category: theatre
+Rajiv Gandhi Zoological Park,Not specified,Pune,Nature,,,18.452906,73.861175,Tourist destination in Pune. Category: zoo
+Pune Cantonment,Not specified,Pune,Other,,,18.512543,73.886045,Tourist destination in Pune. Category: locality
+Peshwe Park,Not specified,Pune,Nature,,,18.502378,73.852233,Tourist destination in Pune. Category: park
+Savitribai Phule Pune University,Not specified,Pune,Other,,,18.552339,73.824621,Tourist destination in Pune. Category: university
+Spicer Adventist University,Not specified,Pune,Other,,,18.563819,73.81939,Tourist destination in Pune. Category: university
+Pune Junction Railway Station,Not specified,Pune,Other,,,18.529378,73.873086,Tourist destination in Pune. Category: building
+Bharat Itihas Sanshodhak Mandal,Not specified,Pune,Heritage,,,18.510978,73.84998,Tourist destination in Pune. Category: museum
+Vetal Hill,Not specified,Pune,Nature,,,18.521059,73.821641,Tourist destination in Pune. Category: mountain
+Bal Gandharva Ranga Mandir,Not specified,Pune,Other,,,18.521991,73.848695,Tourist destination in Pune. Category: theatre
+Dagadusheth Halwai Ganapati Temple,Not specified,Pune,Spiritual,,,18.516389,73.855833,Tourist destination in Pune. Category: temple
+Darshan Museum,Not specified,Pune,Heritage,,,18.524106,73.876429,Tourist destination in Pune. Category: museum
+Dashabhuja Temple,Not specified,Pune,Spiritual,,,18.505799,73.825851,Tourist destination in Pune. Category: temple
+Deccan College Post-Graduate and Research Institute,Not specified,Pune,Other,,,18.54945,73.873278,Tourist destination in Pune. Category: university
+Pune Race Course,Not specified,Pune,Other,,,18.510133,73.893013,Tourist destination in Pune. Category: attraction
+Pune Tribal Museum,Not specified,Pune,Heritage,,,18.529777,73.886004,Tourist destination in Pune. Category: museum
+Gokhale Institute of Politics and Economics,Not specified,Pune,Other,,,18.520272,73.837003,Tourist destination in Pune. Category: university
+"International Convention Centre, Pune",Not specified,Pune,Spiritual,,,18.566104,73.915358,Tourist destination in Pune. Category: monastery
+Blades of Glory Cricket Museum,Not specified,Pune,Heritage,,,18.48601,73.843428,Tourist destination in Pune. Category: museum
+Chhatrapati Sambhaji Udyan,Not specified,Pune,Nature,,,18.520629,73.846999,Tourist destination in Pune. Category: park
+"Kamala Nehru Park, Pune",Not specified,Pune,Nature,,,18.517285,73.834488,Tourist destination in Pune. Category: park
+Kasba Ganapati Temple,Not specified,Pune,Spiritual,,,18.518889,73.856945,Tourist destination in Pune. Category: temple
+National Film Archive of India,Not specified,Pune,Heritage,,,18.51564,73.829443,Tourist destination in Pune. Category: museum
+National War Memorial Southern Command,Not specified,Pune,Heritage,,,18.523074,73.889657,Tourist destination in Pune. Category: memorial
+Pcmc Hockey Stadium,Not specified,Pune,Adventure,,,18.630417,73.825945,Tourist destination in Pune. Category: stadium
+Pataleshwar,Not specified,Pune,Spiritual,,,18.52695,73.849725,Tourist destination in Pune. Category: temple
+Rajgad Fort,Not specified,Pune,Heritage,,,18.245986,73.682193,Tourist destination in Pune. Category: fortification
+Sarasbaug,Not specified,Pune,Nature,,,18.500868,73.85294,Tourist destination in Pune. Category: park
+Sassoon Hospital,Not specified,Pune,Other,,,18.525329,73.870545,Tourist destination in Pune. Category: building
+Shinde Chhatri,Not specified,Pune,Spiritual,,,18.49154,73.89731,Tourist destination in Pune. Category: temple
+Tilak Smarak Mandir,Not specified,Pune,Other,,,18.508244,73.848845,Tourist destination in Pune. Category: theatre
+Vishrambaug Wada,Not specified,Pune,Heritage,,,18.51407,73.85374,Tourist destination in Pune. Category: museum
+Parvati Hill,Not specified,Pune,Other,,,18.497267,73.846829,Tourist destination in Pune. Category: attraction
+Shrimant Bhausaheb Rangari Ganapati Temple,Not specified,Pune,Spiritual,,,18.517503,73.855502,Tourist destination in Pune. Category: temple
+Chaturshringi Temple,Not specified,Pune,Spiritual,,,18.538989,73.828222,Tourist destination in Pune. Category: temple
+Sadhu Vaswani Mission,Not specified,Pune,Other,,,18.524853,73.876683,Tourist destination in Pune. Category: attraction
+Empress Botanical Garden,Not specified,Pune,Nature,,,18.512216,73.897786,Tourist destination in Pune. Category: botanical-garden
+Nana Wada,Not specified,Pune,Other,,,18.518354,73.855997,Tourist destination in Pune. Category: building
+Savarkar Smarak,Not specified,Pune,Heritage,,,18.513052,73.840943,Tourist destination in Pune. Category: monument
+Someshwar Mandir,Not specified,Pune,Spiritual,,,18.513816,73.860483,Tourist destination in Pune. Category: temple
+Tulshibaug Rama Temple,Not specified,Pune,Spiritual,,,18.51381,73.85536,Tourist destination in Pune. Category: temple
+Gundacha Ganapati,Not specified,Pune,Spiritual,,,18.520514,73.859389,Tourist destination in Pune. Category: temple
+Aruna Stambha,Not specified,Puri,Other,,,19.804683,85.819005,Tourist destination in Puri. Category: attraction
+Sudarshan Crafts Museum,Not specified,Puri,Heritage,,,19.805563,85.835911,Tourist destination in Puri. Category: museum
+Angira Ashram,Not specified,Puri,Spiritual,,,19.803889,85.821944,Tourist destination in Puri. Category: church
+Barahi Temple,Not specified,Puri,Spiritual,,,19.800998,85.815963,Tourist destination in Puri. Category: temple
+Bata Mangala,Not specified,Puri,Spiritual,,,19.841379,85.828831,Tourist destination in Puri. Category: temple
+Binikei Temple,Chhattisgarh,Purunakatak,Spiritual,,,20.6181,84.394673,Tourist destination in Purunakatak. Category: temple
+Fateh Sagar Lake,Rajasthan,Rajasthan,Nature,,,24.598611,73.676389,Tourist destination in Rajasthan. Category: lake
+Kota Barrage,Madhya Pradesh,Rajasthan,Other,,,25.17575,75.82734,Tourist destination in Rajasthan. Category: attraction
+Mahatma Gandhi Museum,Not specified,Rajkot,Heritage,,,22.298294,70.802049,Tourist destination in Rajkot. Category: museum
+Watson Museum,Not specified,Rajkot,Heritage,,,22.300431,70.801867,Tourist destination in Rajkot. Category: museum
+Ramagundam B Thermal Power Station,Telangana,Ramagundam,Other,,,18.769927,79.449413,Tourist destination in Ramagundam. Category: building
+Dhanushkodi,Not specified,Rameswaram,Other,,,9.177814,79.417756,Tourist destination in Rameswaram. Category: locality
+Jsca International Cricket Stadium,Jharkhand,Ranchi,Adventure,,,23.310053,85.274885,Tourist destination in Ranchi. Category: stadium
+Tagore Hill,Jharkhand,Ranchi,Other,,,23.40155,85.338074,Tourist destination in Ranchi. Category: attraction
+Hallur,Kerala,Rattihalli,Heritage,,,14.33,75.62,Tourist destination in Rattihalli. Category: archaeological-site
+Ram Jhula Bridge,Uttar Pradesh,Rishikesh,Other,,,30.123797,78.314133,Tourist destination in Rishikesh. Category: bridge
+Kiliyur Falls,Tamil Nadu,Salem,Nature,,,11.796041,78.201156,Tourist destination in Salem. Category: waterfall
+Ardhanareeswarar Temple,Tamil Nadu,Sankagiri,Spiritual,,,11.372625,77.898059,Tourist destination in Sankagiri. Category: temple
+Sankagiri Fort,Tamil Nadu,Sankagiri,Heritage,,,11.479226,77.863938,Tourist destination in Sankagiri. Category: fortification
+Ajinkyatara Fort,Not specified,Satara,Heritage,,,17.672343,73.990472,Tourist destination in Satara. Category: fortification
+Kamani Houd,Not specified,Satara,Other,,,17.683619,73.995441,Tourist destination in Satara. Category: attraction
+Mangalwar Tale,Not specified,Satara,Other,,,17.682526,73.984485,Tourist destination in Satara. Category: attraction
+Moti Tale,Not specified,Satara,Other,,,17.685095,73.988573,Tourist destination in Satara. Category: attraction
+Dr. B.R. Ambedkar Statue,Karnataka,Secunderabad,Heritage,,,17.41327,78.467398,Tourist destination in Secunderabad. Category: statue
+Moula Ali Dargah,Karnataka,Secunderabad,Spiritual,,,17.468754,78.556692,Tourist destination in Secunderabad. Category: religious-site
+Kacheguda_Railway_Station_Building,Karnataka,Secunderabad,Other,,,17.38927,78.499185,Tourist destination in Secunderabad. Category: building
+Telugu Lalitha Kala Thoranam,Karnataka,Secunderabad,Other,,,17.395311,78.469074,Tourist destination in Secunderabad. Category: attraction
+Nizam Museum,Karnataka,Secunderabad,Heritage,,,17.365044,78.48327,Tourist destination in Secunderabad. Category: museum
+Moghlapura,Karnataka,Secunderabad,Other,,,17.357372,78.476429,Tourist destination in Secunderabad. Category: attraction
+"British Residency, Hyderabad",Karnataka,Secunderabad,Other,,,17.383729,78.486912,Tourist destination in Secunderabad. Category: attraction
+Bhimarayanagudi,Karnataka,Shahpur,Other,,,16.728333,76.798056,Tourist destination in Shahpur. Category: locality
+Balapur Fort,Not specified,Shegaon,Heritage,,,20.670303,76.773788,Tourist destination in Shegaon. Category: fortification
+"Jawaharlal Nehru Stadium, Shillong",Mizoram,Shillong,Adventure,,,25.579995,91.894326,Tourist destination in Shillong. Category: stadium
+"Charleville Mansion, Shimla",Haryana,Shimla,Other,,,31.10511,77.172676,Tourist destination in Shimla. Category: building
+Kalka–Shimla Railway,Haryana,Shimla,Heritage,,,31.102732,77.15539,Tourist destination in Shimla. Category: museum
+Rashtrapati Niwas,Haryana,Shimla,Other,,,31.103671,77.142175,Tourist destination in Shimla. Category: building
+Venuvana Vihara,Jharkhand,Silao,Spiritual,,,25.016389,85.418056,Tourist destination in Silao. Category: monastery
+Nalanda Mahavihara,Bihar,Silao,Spiritual,,,25.136491,85.443655,Tourist destination in Silao. Category: monastery
+Tashi Gomang Shedra Buddhist Monastery,Not specified,Siliguri,Spiritual,,,26.767048,88.445209,Tourist destination in Siliguri. Category: monastery
+Siwana Fort,Gujarat,Siwana,Heritage,,,25.649989,72.414557,Tourist destination in Siwana. Category: fortification
+Khwaja Khizr Tomb,Uttar Pradesh,Sonipat,Heritage,,,29.006971,77.014076,Tourist destination in Sonipat. Category: monument
+"Jamia Masjid, Sopore",Jammu and Kashmir,Sopore,Spiritual,,,34.2891,74.4727,Tourist destination in Sopore. Category: mosque
+Madin Sahib,Jammu and Kashmir,Srinagar,Spiritual,,,34.074744,74.820444,Tourist destination in Srinagar. Category: mosque
+Aali Mosque,Jammu and Kashmir,Srinagar,Spiritual,,,34.1049,74.7942,Tourist destination in Srinagar. Category: mosque
+Nishat Bagh,Jammu and Kashmir,Srinagar,Nature,,,34.125,74.881,Tourist destination in Srinagar. Category: garden
+Pathar Masjid,Jammu and Kashmir,Srinagar,Spiritual,,,34.091944,74.805833,Tourist destination in Srinagar. Category: mosque
+Chashme Shahi,Jammu and Kashmir,Srinagar,Nature,,,34.08615,74.887164,Tourist destination in Srinagar. Category: garden
+Tomb of Zain-Ul-Abudin'S Mother,Jammu and Kashmir,Srinagar,Heritage,,,34.095036,74.80621,Tourist destination in Srinagar. Category: monument
+Kheer Bhawani,Jammu and Kashmir,Srinagar,Spiritual,,,34.220833,74.730278,Tourist destination in Srinagar. Category: temple
+Lal Chowk,Jammu and Kashmir,Srinagar,Other,,,34.071256,74.810493,Tourist destination in Srinagar. Category: square
+Pari Mahal,Jammu and Kashmir,Srinagar,Other,,,34.083333,74.883333,Tourist destination in Srinagar. Category: building
+Sher Garhi Palace,Jammu and Kashmir,Srinagar,Heritage,,,34.0723,74.8062,Tourist destination in Srinagar. Category: palace
+Shalimar Bagh,Jammu and Kashmir,Srinagar,Nature,,,34.149722,74.873056,Tourist destination in Srinagar. Category: garden
+Surat Castle,Not specified,Surat,Heritage,,,21.196096,72.817712,Tourist destination in Surat. Category: fortification
+Hazira Port,Not specified,Surat,Other,,,21.083333,72.633333,Tourist destination in Surat. Category: building
+Sardar Patel Museum,Not specified,Surat,Heritage,,,21.17034,72.79566,Tourist destination in Surat. Category: museum
+Tomb of Khawaja Safar Sulemani,Not specified,Surat,Heritage,,,21.204283,72.823702,Tourist destination in Surat. Category: monument
+"Dutch and Armenian Cemetery, Surat",Not specified,Surat,Other,,,21.209395,72.827151,Tourist destination in Surat. Category: cemetery
+Science Centre Surat,Not specified,Surat,Heritage,,,21.170232,72.795588,Tourist destination in Surat. Category: museum
+Budhi Thakurani Temple,Not specified,Talcher,Spiritual,,,20.834643,85.073212,Tourist destination in Talcher. Category: temple
+Hingula Temple,Not specified,Talcher,Spiritual,,,20.972492,85.038347,Tourist destination in Talcher. Category: temple
+Tawang Monastery,Meghalaya,Tawang,Spiritual,,,27.586726,91.857719,Tourist destination in Tawang. Category: monastery
+Barauni Refinery,Bihar,Teghra,Other,,,25.466,85.987,Tourist destination in Teghra. Category: building
+Tellicherry Fort,Not specified,Thalassery,Heritage,,,11.748112,75.48664,Tourist destination in Thalassery. Category: fortification
+Dharmadam Island,Not specified,Thalassery,Nature,,,11.770184,75.451199,Tourist destination in Thalassery. Category: island
+Brahma Sarovar,Haryana,Thanesar,Nature,,,29.962168,76.827535,Tourist destination in Thanesar. Category: lake
+Raja Harsh Ka Tila,Haryana,Thanesar,Heritage,,,29.976069,76.82642,Tourist destination in Thanesar. Category: archaeological-site
+Thanjavur Veerabhadra Temple,Not specified,Thanjavur,Spiritual,,,10.789252,79.087318,Tourist destination in Thanjavur. Category: temple
+Thanjavur Varadaraja Perumal Temple,Not specified,Thanjavur,Spiritual,,,10.789351,79.135426,Tourist destination in Thanjavur. Category: temple
+Thanjavur Naganathaswamy Temple,Not specified,Thanjavur,Spiritual,,,10.798008,79.144022,Tourist destination in Thanjavur. Category: temple
+Saraswathi Mahal Library,Not specified,Thanjavur,Heritage,,,10.792106,79.135777,Tourist destination in Thanjavur. Category: museum
+Thanjavur Meenakshi Sundareswarar Temple.,Not specified,Thanjavur,Spiritual,,,10.804092,79.138145,Tourist destination in Thanjavur. Category: temple
+Thanjavur Nalukal Mandapa Anjaneya Temple,Not specified,Thanjavur,Spiritual,,,10.792195,79.131468,Tourist destination in Thanjavur. Category: temple
+Aiyarappar Temple,Not specified,Thanjavur,Spiritual,,,10.880901,79.104997,Tourist destination in Thanjavur. Category: temple
+Thanjavur Maratha Palace,Not specified,Thanjavur,Heritage,,,10.791781,79.137124,Tourist destination in Thanjavur. Category: museum
+Brihadisvara Temple,Not specified,Thanjavur,Spiritual,,,10.78258,79.131382,Tourist destination in Thanjavur. Category: temple
+Aazhimala Shiva Temple,Not specified,Thiruvananthapuram,Spiritual,,,8.356915,77.011396,Tourist destination in Thiruvananthapuram. Category: temple
+Thiruvananthapuram International Airport,Not specified,Thiruvananthapuram,Other,,,8.482222,76.92,Tourist destination in Thiruvananthapuram. Category: building
+Padmanabhaswamy Temple,Not specified,Thiruvananthapuram,Spiritual,,,8.482778,76.943591,Tourist destination in Thiruvananthapuram. Category: temple
+Kerala Science and Technology Museum,Not specified,Thiruvananthapuram,Heritage,,,8.509987,76.946071,Tourist destination in Thiruvananthapuram. Category: museum
+Koyikkal Palace,Not specified,Thiruvananthapuram,Heritage,,,8.60876,77.0032,Tourist destination in Thiruvananthapuram. Category: museum
+Vizhinjam Lighthouse,Not specified,Thiruvananthapuram,Other,,,8.382892,76.979691,Tourist destination in Thiruvananthapuram. Category: lighthouse
+Puthenthope Beach,Not specified,Thiruvananthapuram,Nature,,,8.572104,76.83571,Tourist destination in Thiruvananthapuram. Category: beach
+Kanakakkunnu Palace,Not specified,Thiruvananthapuram,Heritage,,,8.510653,76.9581,Tourist destination in Thiruvananthapuram. Category: palace
+Kuthira Malika,Not specified,Thiruvananthapuram,Heritage,,,8.482245,76.945296,Tourist destination in Thiruvananthapuram. Category: palace
+East Fort,Not specified,Thiruvananthapuram,Other,,,8.48285,76.947295,Tourist destination in Thiruvananthapuram. Category: neighbourhood
+Napier Museum,Not specified,Thiruvananthapuram,Heritage,,,8.508611,76.955,Tourist destination in Thiruvananthapuram. Category: museum
+Kowdiar Palace,Not specified,Thiruvananthapuram,Heritage,,,8.524008,76.963218,Tourist destination in Thiruvananthapuram. Category: palace
+Vellayani Lake,Not specified,Thiruvananthapuram,Nature,,,8.439583,76.988397,Tourist destination in Thiruvananthapuram. Category: lake
+Palayam Juma Masjid,Not specified,Thiruvananthapuram,Spiritual,,,8.503862,76.950752,Tourist destination in Thiruvananthapuram. Category: mosque
+Attukal Temple,Not specified,Thiruvananthapuram,Spiritual,,,8.469862,76.955486,Tourist destination in Thiruvananthapuram. Category: temple
+Tropical Botanical Garden and Research Institute,Not specified,Thiruvananthapuram,Nature,,,8.5036,76.9521,Tourist destination in Thiruvananthapuram. Category: botanical-garden
+Greenfield International Stadium,Not specified,Thiruvananthapuram,Adventure,,,8.5715,76.884306,Tourist destination in Thiruvananthapuram. Category: stadium
+Kerala Government Secretariat,Not specified,Thiruvananthapuram,Other,,,8.4972,76.9495,Tourist destination in Thiruvananthapuram. Category: building
+"St. Mary'S Cathedral, Pattom, Trivandrum",Not specified,Thiruvananthapuram,Other,,,8.526048,76.938181,Tourist destination in Thiruvananthapuram. Category: cathedral
+"St. Mary, Queen of Peace Basilica",Not specified,Thiruvananthapuram,Other,,,8.503,76.95,Tourist destination in Thiruvananthapuram. Category: cathedral
+Thirichittoor Rock,Not specified,Thiruvananthapuram,Other,,,8.625759,76.982668,Tourist destination in Thiruvananthapuram. Category: attraction
+Thiruvananthapuram Zoo,Not specified,Thiruvananthapuram,Nature,,,8.510886,76.955295,Tourist destination in Thiruvananthapuram. Category: zoo
+Ulloor,Not specified,Thiruvananthapuram,Other,,,8.506547,76.952069,Tourist destination in Thiruvananthapuram. Category: village
+Vizhinjam International Seaport,Not specified,Thiruvananthapuram,Other,,,8.379167,76.991389,Tourist destination in Thiruvananthapuram. Category: building
+Pazhavangadi Ganapathi Temple,Not specified,Thiruvananthapuram,Spiritual,,,8.4845,76.94721,Tourist destination in Thiruvananthapuram. Category: temple
+Kerala Biodiversity Museum,Not specified,Thiruvananthapuram,Heritage,,,8.478657,76.929954,Tourist destination in Thiruvananthapuram. Category: museum
+Adichanallur Archaeological Site,Not specified,Thoothukudi,Heritage,,,8.73,77.7,Tourist destination in Thoothukudi. Category: archaeological-site
+"Basilica of Our Lady of Snows, Thoothukudi",Not specified,Thoothukudi,Spiritual,,,8.799555,78.156621,Tourist destination in Thoothukudi. Category: church
+Shakthan Thampuran Palace,Not specified,Thrissur,Heritage,,,10.531181,76.216259,Tourist destination in Thrissur. Category: palace
+Vilangan Hills,Not specified,Thrissur,Other,,,10.557385,76.168592,Tourist destination in Thrissur. Category: attraction
+Vanchikulam,Not specified,Thrissur,Nature,,,10.513756,76.206208,Tourist destination in Thrissur. Category: lake
+Thekkinkadu Maidan,Not specified,Thrissur,Other,,,10.5249,76.2144,Tourist destination in Thrissur. Category: square
+Our Lady of Dolours Basilica,Not specified,Thrissur,Spiritual,,,10.521,76.218,Tourist destination in Thrissur. Category: church
+"Archaeological Museum, Thrissur",Not specified,Thrissur,Heritage,,,10.529766,76.223107,Tourist destination in Thrissur. Category: museum
+Kerala Lalita Kala Akademi,Not specified,Thrissur,Other,,,10.53341,76.218568,Tourist destination in Thrissur. Category: building
+Kerala Sangeetha Nataka Akademi,Not specified,Thrissur,Other,,,10.532739,76.218639,Tourist destination in Thrissur. Category: building
+Our Lady of Lourdes Metropolitan Cathedral,Not specified,Thrissur,Other,,,10.522972,76.227931,Tourist destination in Thrissur. Category: cathedral
+Paramekkavu,Not specified,Thrissur,Spiritual,,,10.524722,76.217778,Tourist destination in Thrissur. Category: temple
+"Vadakkechira, Thrissur",Not specified,Thrissur,Nature,,,10.529835,76.215651,Tourist destination in Thrissur. Category: lake
+Railway Heritage Centre,Not specified,Tiruchirappalli,Heritage,,,10.797531,78.686367,Tourist destination in Tiruchirappalli. Category: museum
+"Ranganathaswamy Temple, Srirangam",Not specified,Tiruchirappalli,Spiritual,,,10.8621,78.6901,Tourist destination in Tiruchirappalli. Category: temple
+Jambukeswarar Temple,Not specified,Tiruchirappalli,Spiritual,,,10.852928,78.704004,Tourist destination in Tiruchirappalli. Category: temple
+"Basilica of the Holy Redeemer, Tiruchirappalli",Not specified,Tiruchirappalli,Spiritual,,,10.8103,78.698,Tourist destination in Tiruchirappalli. Category: church
+Nadir Shah Mosque,Not specified,Tiruchirappalli,Spiritual,,,11.131093,78.5661,Tourist destination in Tiruchirappalli. Category: mosque
+Tiruchirappalli Rock Fort,Not specified,Tiruchirappalli,Heritage,,,10.828062,78.696858,Tourist destination in Tiruchirappalli. Category: fortification
+"Ucchi Pillayar Temple, Rockfort",Not specified,Tiruchirappalli,Spiritual,,,10.828357,78.697274,Tourist destination in Tiruchirappalli. Category: temple
+Annamalaiyar Temple,Tamil Nadu,Tiruvannamalai,Spiritual,,,12.231896,79.066831,Tourist destination in Tiruvannamalai. Category: temple
+Sri Ramana Ashram,Tamil Nadu,Tiruvannamalai,Spiritual,,,12.223611,79.056667,Tourist destination in Tiruvannamalai. Category: church
+Khirganga National Park,Himachal Pradesh,"Tosh, Himachal Pradesh",Nature,,,31.99343,77.510227,"Tourist destination in Tosh, Himachal Pradesh. Category: park"
+Lake Palace,Rajasthan,Udaipur,Heritage,,,24.57507,73.68022,Tourist destination in Udaipur. Category: palace
+Udaipur Solar Observatory,Rajasthan,Udaipur,Other,,,24.604589,73.674189,Tourist destination in Udaipur. Category: attraction
+Lake Pichola,Rajasthan,Udaipur,Nature,,,24.567055,73.680695,Tourist destination in Udaipur. Category: lake
+Gangaur Ghat,Rajasthan,Udaipur,Other,,,24.579924,73.681925,Tourist destination in Udaipur. Category: attraction
+Ambrai Ghat,Rajasthan,Udaipur,Other,,,24.577512,73.677877,Tourist destination in Udaipur. Category: attraction
+Monsoon Palace,Rajasthan,Udaipur,Heritage,,,24.5932,73.639453,Tourist destination in Udaipur. Category: palace
+Ahar Cenotaphs,Rajasthan,Udaipur,Heritage,,,24.587778,73.719444,Tourist destination in Udaipur. Category: monument
+Bagore-Ki-Haveli,Rajasthan,Udaipur,Other,,,24.579669,73.680036,Tourist destination in Udaipur. Category: building
+"Jagdish Temple, Udaipur",Rajasthan,Udaipur,Spiritual,,,24.579722,73.683611,Tourist destination in Udaipur. Category: temple
+Sajjangarh Wildlife Sanctuary,Rajasthan,Udaipur,Other,,,24.594375,73.641647,Tourist destination in Udaipur. Category: attraction
+Saheliyon-Ki-Bari,Rajasthan,Udaipur,Other,,,24.603006,73.68549,Tourist destination in Udaipur. Category: attraction
+Shiv Niwas Palace,Rajasthan,Udaipur,Heritage,,,24.574329,73.681686,Tourist destination in Udaipur. Category: palace
+Mahakaleshwar Jyotirlinga,Madhya Pradesh,Ujjain,Spiritual,,,23.182874,75.768238,Tourist destination in Ujjain. Category: temple
+Kali Tiger Reserve,Not specified,Ulavi,Nature,,,15.016667,74.383333,Tourist destination in Ulavi. Category: park
+Rajaji National Park,Uttar Pradesh,Uttarakhand,Nature,,,30.083333,78.033333,Tourist destination in Uttarakhand. Category: park
+Sursagar Lake,Not specified,Vadodara,Nature,,,22.300821,73.203916,Tourist destination in Vadodara. Category: lake
+Eme Temple,Not specified,Vadodara,Spiritual,,,22.3314,73.192,Tourist destination in Vadodara. Category: temple
+Maharaja Fateh Singh Museum,Not specified,Vadodara,Heritage,,,22.292135,73.193811,Tourist destination in Vadodara. Category: museum
+Sayaji Baug,Not specified,Vadodara,Nature,,,22.311457,73.191386,Tourist destination in Vadodara. Category: garden
+Laxmi Vilas Palace,Not specified,Vadodara,Heritage,,,22.293796,73.191307,Tourist destination in Vadodara. Category: palace
+"Tadkeshwar Mahadev Temple, Valsad",Not specified,Valsad,Spiritual,,,20.590343,72.936974,Tourist destination in Valsad. Category: temple
+Chaukhandi Stupa,Not specified,Varanasi,Spiritual,,,25.37402,83.023588,Tourist destination in Varanasi. Category: religious-site
+Sarnath Museum,Not specified,Varanasi,Heritage,,,25.3796,83.0231,Tourist destination in Varanasi. Category: museum
+Dhamek Stupa,Not specified,Varanasi,Spiritual,,,25.380986,83.024529,Tourist destination in Varanasi. Category: religious-site
+Man Singh Observatory,Not specified,Varanasi,Other,,,25.307753,83.01083,Tourist destination in Varanasi. Category: attraction
+Nepali Mandir,Not specified,Varanasi,Spiritual,,,25.309821,83.012859,Tourist destination in Varanasi. Category: temple
+Lalita Ghat,Not specified,Varanasi,Other,,,25.310013,83.013276,Tourist destination in Varanasi. Category: attraction
+Gyanvapi Mosque,Not specified,Varanasi,Spiritual,,,25.31125,83.01043,Tourist destination in Varanasi. Category: mosque
+Dashashwamedh Ghat,Not specified,Varanasi,Other,,,25.307169,83.010336,Tourist destination in Varanasi. Category: attraction
+Manikarnika Ghat,Not specified,Varanasi,Other,,,25.31087,83.014086,Tourist destination in Varanasi. Category: attraction
+Kashi Vishwanath Temple,Not specified,Varanasi,Spiritual,,,25.310775,83.010614,Tourist destination in Varanasi. Category: temple
+Ramnagar Fort,Not specified,Varanasi,Heritage,,,25.269509,83.025088,Tourist destination in Varanasi. Category: fortification
+Assi Ghat,Not specified,Varanasi,Other,,,25.288648,83.006762,Tourist destination in Varanasi. Category: attraction
+Shivala Ghat,Not specified,Varanasi,Other,,,25.295899,83.007101,Tourist destination in Varanasi. Category: attraction
+Ghats In Varanasi,Not specified,Varanasi,Other,,,25.336693,83.00701,Tourist destination in Varanasi. Category: attraction
+Sarnath Deer Park,Not specified,Varanasi,Nature,,,25.382035,83.026613,Tourist destination in Varanasi. Category: park
+Scindia Ghat,Not specified,Varanasi,Other,,,25.312141,83.015615,Tourist destination in Varanasi. Category: attraction
+Tulsi Ghat,Not specified,Varanasi,Other,,,25.289833,83.00651,Tourist destination in Varanasi. Category: attraction
+Banaras Hindu University,Not specified,Varanasi,Other,,,25.26772,82.99119,Tourist destination in Varanasi. Category: university
+Vasai,Not specified,Vasai-Virar,Other,,,19.330557,72.815575,Tourist destination in Vasai-Virar. Category: locality
+Fort Vasai,Not specified,Vasai-Virar,Heritage,,,19.32922,72.814589,Tourist destination in Vasai-Virar. Category: fortification
+Arnala Fort,Not specified,Vasai-Virar,Heritage,,,19.465946,72.732252,Tourist destination in Vasai-Virar. Category: fortification
+Tungareshwar Wildlife Sanctuary,Not specified,Vasai-Virar,Other,,,19.403314,72.957868,Tourist destination in Vasai-Virar. Category: attraction
+Somnath Temple,Not specified,Veraval,Spiritual,,,20.888028,70.401389,Tourist destination in Veraval. Category: temple
+Bhalka,Not specified,Veraval,Spiritual,,,20.888,70.4014,Tourist destination in Veraval. Category: temple
+Ram Mohan Library,Andhra Pradesh,Vijayawada,Other,,,16.508759,80.61851,Tourist destination in Vijayawada. Category: library
+Akkanna Madanna Caves,Andhra Pradesh,Vijayawada,Spiritual,,,16.513889,80.606667,Tourist destination in Vijayawada. Category: temple
+Undavalli Caves,Andhra Pradesh,Vijayawada,Nature,,,16.49667,80.581695,Tourist destination in Vijayawada. Category: cave
+Victoria Jubilee Museum,Andhra Pradesh,Vijayawada,Heritage,,,16.507652,80.627707,Tourist destination in Vijayawada. Category: museum
+Prakasam Barrage,Andhra Pradesh,Vijayawada,Other,,,16.502078,80.603335,Tourist destination in Vijayawada. Category: attraction
+Veera Abhaya Anjaneya Hanuman Swami,Andhra Pradesh,Vijayawada,Heritage,,,16.64688,80.423339,Tourist destination in Vijayawada. Category: statue
+Gurdwara Tirgarhi Sahib,Haryana,Vikasnagar,Spiritual,,,30.482778,77.725833,Tourist destination in Vikasnagar. Category: temple
+Dakpathar Barrage,Haryana,Vikasnagar,Other,,,30.50158,77.794697,Tourist destination in Vikasnagar. Category: attraction
+Bavikonda,Andhra Pradesh,Visakhapatnam,Heritage,,,17.817222,83.390833,Tourist destination in Visakhapatnam. Category: archaeological-site
+Simhachalam Temple,Andhra Pradesh,Visakhapatnam,Spiritual,,,17.7664,83.2505,Tourist destination in Visakhapatnam. Category: temple
+Ramakrishna Mission Beach,Andhra Pradesh,Visakhapatnam,Nature,,,17.710763,83.318467,Tourist destination in Visakhapatnam. Category: beach
+Thotlakonda,Andhra Pradesh,Visakhapatnam,Heritage,,,17.828513,83.409175,Tourist destination in Visakhapatnam. Category: archaeological-site
+Visakha Container Terminal,Andhra Pradesh,Visakhapatnam,Other,,,17.693927,83.298505,Tourist destination in Visakhapatnam. Category: building
+Para Lake,Not specified,Visnagar,Nature,,,23.604235,72.397186,Tourist destination in Visnagar. Category: lake
+Thamarassery Churam,Not specified,Vythiri Taluk,Other,,,11.503104,76.023712,Tourist destination in Vythiri Taluk. Category: attraction
+Kanthanpara Waterfalls,Not specified,Vythiri Taluk,Nature,,,11.523935,76.15269,Tourist destination in Vythiri Taluk. Category: waterfall
+Chembra Peak,Not specified,Vythiri Taluk,Nature,,,11.547214,76.082724,Tourist destination in Vythiri Taluk. Category: mountain
+Pandavgad,Not specified,Wai,Other,,,17.998297,73.863555,Tourist destination in Wai. Category: attraction
+Vairatgad Fort,Not specified,Wai,Heritage,,,17.878195,73.918345,Tourist destination in Wai. Category: fortification
+Kamalgad,Not specified,Wai,Heritage,,,17.967383,73.745236,Tourist destination in Wai. Category: fortification
